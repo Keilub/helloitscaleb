@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<!-- begin page -->
+
+<article class="page container">
+
+  <div class="page-head">
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ if .Description }}
+      <p class="page-description">{{ .Description }}</p>
+    {{ end }}
+    {{ if .Params.label }}
+      <span class="page-label">{{ .Params.label }}</span>
+    {{ end }}
+  </div>
+
+  {{ if .Params.image }}
+    <div class="page-image">
+      <img class="lazy" data-src="{{ .Params.Image | absURL }}" alt="{{ .Title }}">
+    </div>
+  {{ end }}
+
+  <div class="page__content">
+    {{ if .Params.toc }}
+    <div class="table-of-contents">
+      <h2 class="table-of-contents__title">Table of Contents</h2>
+      {{ .TableOfContents }}
+    </div>
+    {{ end }}
+    {{ .Content }}
+  </div>
+
+</article>
+<!-- end page -->
+
+{{ end }}

@@ -1,0 +1,89 @@
+/* Author */
+.author {
+  position: relative;
+  text-align: center;
+}
+
+.author__box {
+  margin-top: 45px;
+
+  &.with-global-cover {
+    margin-top: 45px;
+  }
+
+  @media (max-width: $mobile) {
+    margin-top: 32px;
+  }
+}
+
+.author__info {
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 5px;
+}
+
+.author__meta {
+  margin-right: 8px;
+  justify-content: center;
+}
+
+
+
+.author__name {
+  font-size: 36px;
+  margin-bottom: 0px;
+
+  @media (max-width: $mobile) {
+    font-size: 36px;
+  }
+}
+
+.author__role {
+  font-family: 'Concourse Cap';
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--primary-color);
+
+  @media (max-width: $mobile) {
+    font-size: 15px;
+  }
+}
+
+.author__bio {
+  margin: 0;
+  font-size: 16px;
+
+  a {
+    font-weight: 500;
+    border-bottom: 1px solid var(--border-color);
+  
+    &:hover {
+      color: var(--link-color);
+      border-bottom-color: var(--link-color-hover);
+    }
+  }
+}
+
+.cta-button {
+  display: flex;
+  align-items: center;
+  padding: 12px 20px;
+  margin-top: 12px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+
+  &:hover {
+    background: var(--background-alt-color);
+  }
+
+  i {
+    margin-right: 8px;
+  }
+
+  @media (max-width: $mobile) {
+    font-size: 15px;
+  }
+}

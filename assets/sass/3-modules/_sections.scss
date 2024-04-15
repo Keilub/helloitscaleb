@@ -1,0 +1,41 @@
+/* Sections */
+.section {
+  position: relative;
+  margin: -65px 0;
+
+  @media (max-width: $mobile) {
+    margin: -65px 0;
+  }
+}
+
+.section__info {
+  margin-bottom: 40px;
+
+  @media (max-width: $mobile) {
+    margin-bottom: 32px;
+  }
+}
+
+.section__head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.section__title {
+  font-family: 'Concourse Cap';
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+  font-size: 0px;
+
+  @media (max-width: $mobile) {
+    font-size: 20px;
+  }
+}
+
+.section__description {
+  margin: 12px 0 0;
+  font-size: 16px;
+}
