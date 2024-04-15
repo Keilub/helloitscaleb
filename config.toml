@@ -48,7 +48,7 @@ paginate = 3
   [params.author]
     author_name = "caleb allen"
     author_role = "Lead Designer & Storyteller"
-    author_bio = "A design-savvy storyteller turning ideas into products and campaigns."
+    author_bio = "A design-savvy storyteller based in Indianapolis."
     cta_button_text = ""
     cta_button_link = "/contact/"
 
