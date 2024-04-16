@@ -105,7 +105,7 @@ blockquote {
   margin: 32px 0;
   padding: 10px 15px 0 24px;
   font-family: 'Concourse Cap';
-  font-size: 24px;
+  font-size: 20px;
   line-height: 1.5;
   font-weight: 500;
   border-top: 1px solid (#5a7d7198);
@@ -128,7 +128,7 @@ blockquote {
 
   @media (max-width: $mobile) {
     padding: 0 0 0 20px;
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 

@@ -1,6 +1,6 @@
 ---
 title: adventure is out there
-description: Led redesign of the Trail's End Fundraiser Packaging and Social campaigns.
+description: Led refresh of the Trail's End Fundraiser Packaging and Social campaigns.
 date: 2023-01-10 08:01:35 +0300
 label:
 image: /images/te-packaging.png
@@ -22,51 +22,41 @@ Our goals were to:
 3. Revitalize the brand to give the fundraiser a fresh look that garners excitement from both the Scout and buyer. 
 
 ## My Role
-I led the redesign of the product packaging between March 2021 and November 2023 and collaborated with another design and marketing lead on the social strategy for the fundraiser. 
-
-In addition, I worked alongside a Product Researcher, Customer Service Managers, Product Development Strategist, Content Strategist and Executive Leadership. 
+I led the redesign of the product packaging between March 2021 and November 2023 and collaborated alongside a Product Researcher, Customer Service Managers, Product Development Strategist, Content Strategist and Executive Leadership. 
 
 I left the project as the fundraiser was going into its second season with the refocused design and brand. 
 
+##### discovery
+## Starting From The Past
+
+![Photo](/images/oldpackage.png)
+*Previous designs that had been in use for a few years.*
+
+We began by analyzing Trail's End's existing packaging, recognizing the importance of maintaining the brand's established visual identity.  To achieve a refresh, we implemented a two-pronged approach. First, colors were given a slight saturation boost, enhancing their vibrancy without deviating from the brand's established palette. Second, we incorporated subtle gradients to seamlessly blend product photography with the bolder color elements.  Typography received a modern update while adhering to Trail's End's brand standards. Furthermore, we updated some of the product photos to showcase a more diverse and inclusive range of people enjoying the outdoors and creating memories, ensuring Trail's End resonates with all potential scouts. Finally, a drop shadow effect was introduced, not only adding depth to the packaging design but also offering creative opportunities for future social media campaigns and marketing materials. This effect will play a key role in amplifying the brand's core message of "Adventure Awaits."
+
+##### the result
+## Small Changes to Big Excitment
+
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
+    <img src= /images/SeaSalt.png loading="lazy">
+    <img src= /images/Microwave.png loading="lazy">
+    <img src= /images/cheddar.png loading="lazy">
     <img src= /images/kettle.png loading="lazy">
     <img src= /images/Chocolate.png loading="lazy">
     <img src= /images/Salted.png loading="lazy">    <img src= /images/Smores.png loading="lazy">
     <img src= /images/Popping.png loading="lazy">
-    <img src= /images/SeaSalt.png loading="lazy">
-    <img src= /images/Microwave.png loading="lazy">
-    <img src= /images/cheddar.png loading="lazy">
+    <img src= /images/Holiday-Online-Product_Peppermint-v2.jpg loading="lazy">
+
   </div>
   <em>Final Designs, effective 2023</em>
 </div>
 
-## My Role
-I led the redesign of the product packaging between March 2021 and November 2023 and collaborated with another design and marketing lead on the social strategy for the fundraiser. 
 
-In addition, I worked alongside a Product Researcher, Customer Service Managers, Product Development Strategist, Content Strategist and Executive Leadership. 
+##### the impact
+## Postive Results & Much More To Do
+The redesign of the product packaging has had a positive impact on customer engagement. With the focus on kids and adventure the users feel the packaging now expresses their excitement for Scouting, leading to a positive experience for both sellers and customers. However, pricing complaints have not significantly decreased but they have gone down. I believe this to be a change that will require a gradual change over a longer period of time. 
 
-I left the project as the fundraiser was going into its second season with the refocused design and brand. 
-
-![Photo](/images/6392297.jpg)
-
-
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src= /images/triple.jpg loading="lazy">
-    <img src= /images/te-promo.png loading="lazy">
-    <img src= /images/te-faq.jpg loading="lazy">
-    <img src= /images/grayson.jpg loading="lazy">
-    <img src= /images/te-adventure.png loading="lazy">
-    <img src= /images/te-code.jpg loading="lazy">
-    <img src= /images/cheddarbundle.jpg loading="lazy">
-    <img src= /images/te-lifestyle04.jpg loading="lazy">
-    <img src= /images/ask.png loading="lazy">
-    <img src= /images/console.png loading="lazy">
-    <img src= /images/goals.png loading="lazy">
-    <img src= /images/te-tips.jpg loading="lazy">
-  </div>
-  <em>Social Campaign Designs</em>
-</div>
-
-The new design went effective July 2023. 
+* Increased representation of average user and consumer. 
+* 7% decline in customer complaints on cost, with an improvement in social media channels becoming more positive space for fundraiser discussion. 
+* 37% increase of sales from previous year
