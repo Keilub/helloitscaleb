@@ -7,34 +7,36 @@ image: /images/6392297.jpg
 page_cover:
 ---
 
-In the beginning selling popcorn was a magical experience for Scouts, allowing them the ability to fundraise for life changing experiences and memories. As time passed this magic diminished as the brand lost it’s focus resulting in a poor experience and customers began to forget what made this fundraiser magic, the life long friendships and memories that is possible with a successful fundraiser. 
-
-I was part of an ambitious project to redesign the products and brand for one of the most vital fundraisers in Scouting. 
+After the refresh of the product packaging, we were in need to fully engaging our audience to drum up excitement for the upcoming year of fundraising. The social media strategy before I arrived was scattered across 20+ accounts and the discussion and attitude of those account was filled with user concerns being unmet/ignored and overall, a negative experience for any user.
 
 
 ##### the challenge
-## Recapturing the Magic
+## Meet Their Needs & Engage
 Our goal for the project was to recapture the magic of what it means to be a Scout and the experiences that help fuel the development of the kids that fundraise. The original premise was simple: sell popcorn, go on adventure. Our ambitions were to create a strong visual foundation that allows the user base to embrace and feel positive about their support of the fundraiser. 
 
 Our goals were to:
-1. Make it simple and easy for everyone, everywhere. 
-2. Give customers the information they need to understand the cost of the product and what their donation helps support.
-3. Revitalize the brand to give the fundraiser a fresh look that garners excitement from both the Scout and buyer. 
-
+1. Simplify the number of accounts for the company and its users.  
+2. Understand who and why users are visiting our social platforms and meet their needs. 
+3. Create a place that is positive that allows excitement to grow, further enforcing our new brand focus of funding adventures and creating life-long memories.
+ 
 ## My Role
-I led the redesign of the product packaging between March 2021 and November 2023 and collaborated with another design and marketing lead on the social strategy for the fundraiser. 
+I led the design and strategy for social campaigns from the beginning of the brand refresh. I led the efforts to evolve the social strategy and to address customer pain-points on social platforms. 
 
-In addition, I worked alongside a Product Researcher, Customer Service Managers, Product Development Strategist, Content Strategist and Executive Leadership. 
+##### the discovery
+## User Insights & Ideation
+Leveraging insights from our social media deep dive and research, I developed a content strategy that targets the needs of three key user personas. These personas will guide our future campaigns, ensuring they effectively reach our target audience and achieve our goals. 
 
-I left the project as the fundraiser was going into its second season with the refocused design and brand. 
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/triple.jpg loading="lazy">
+    <img src= /images/te-promo.png loading="lazy">
+    <img src= /images/te-faq.jpg loading="lazy">
+  </div>
+  <em>The Three Key Personas Developed from our Research of our Social Media Platforms</em>
+</div>
 
-
-## My Role
-I led the redesign of the product packaging between March 2021 and November 2023 and collaborated with another design and marketing lead on the social strategy for the fundraiser. 
-
-In addition, I worked alongside a Product Researcher, Customer Service Managers, Product Development Strategist, Content Strategist and Executive Leadership. 
-
-I left the project as the fundraiser was going into its second season with the refocused design and brand. 
+##### how we got there
+## From Persona to Design
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">

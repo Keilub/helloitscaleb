@@ -30,11 +30,11 @@
 
 
 .author__name {
-  font-size: 36px;
-  margin-bottom: 0px;
+  font-size: 56px;
+  margin-bottom: -3px;
 
   @media (max-width: $mobile) {
-    font-size: 36px;
+    font-size: 56px;
   }
 }
 
@@ -52,6 +52,7 @@
 .author__bio {
   margin: 0;
   font-size: 16px;
+  margin-bottom: -5px;
 
   a {
     font-weight: 500;
