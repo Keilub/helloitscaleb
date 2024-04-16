@@ -3,9 +3,10 @@ title:
 description:
 image: 
 ---
-![Photo](/images/CurrentHeadshot-01.png)
+![Photo](/images/family.jpg)
 
-I'm a husband, dog & cat dad, designer and writer. With a unique blend of design and determined attitude, I've been instrumental in growing businesses and brand identities.<br>
+I'm a husband, <a href= "/maple/"> dog </a> & <a href= "/sushi/"> cat </a> dad, designer and <a href= "https://calebmallen.com"> writer </a>. With a unique blend of design and determined attitude, I've been instrumental in growing businesses and brand identities.<br>
+<br>
 My strength lies in accessible, user-friendly designs and crafting products people love. Working closely with CEOs, I’ve navigated a variety of challenges - from small business to Fortune 500 companies - always with a design first approach.
 I thrive in the dynamic world where creativity meets business, creating experiences and products that delight and inspire.
 
