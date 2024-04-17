@@ -1,6 +1,6 @@
 ---
-title: Indianpolis Zoo Conservation
-description: Led rebrand of Indianapolis Zoo.
+title: indianapolis zoo
+description: Personal rebrand of Indianapolis Zoo.
 date: 2023-01-07 08:01:35 +0300
 label: Mockup
 image: '/images/zoocover.jpg'

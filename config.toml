@@ -65,17 +65,9 @@ paginate = 3
   # Social Icons Settings
 
   [[params.social]]
-    icon = "fa-brands fa-vimeo-v"
-    name = "instagram"
+    icon = "fa-brands fa-linkedin"
+    name = "Linkedin"
     link = "https://www.linkedin.com/in/caleballen92"
-
-  # Example of adding a new link to the footer:
-  # [[params.social]]
-  #   icon = "fa fa-linkedin"
-  #   name = "Instagram"
-  #   link = "https://instagram.com"
-
-  # Other icons can be found at https://fontawesome.com/search?o=r&m=free
 
 
   #-------------------------------

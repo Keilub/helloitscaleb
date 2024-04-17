@@ -1,5 +1,5 @@
 ---
-title: engaging the conversation
+title: kernels of wisdom
 description: Led design and implementation of social media campaigns.
 date: 2023-01-10 02:01:35 +0300
 label:
