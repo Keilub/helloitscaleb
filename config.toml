@@ -64,10 +64,6 @@ paginate = 3
   #-------------------------------
   # Social Icons Settings
 
-  [[params.social]]
-    icon = "fa-brands fa-linkedin"
-    name = "Linkedin"
-    link = "https://www.linkedin.com/in/caleballen92"
 
 
   #-------------------------------
