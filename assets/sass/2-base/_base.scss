@@ -93,7 +93,7 @@ h4 {
 h5 {
   font-size: $font-size-h5;
   font-family: 'Concourse Cap';
-  color: #5A7D71;
+  color: var(--primary-color);
 }
 
 h6 {
@@ -108,8 +108,7 @@ blockquote {
   font-size: 20px;
   line-height: 1.5;
   font-weight: 500;
-  border-top: 1px solid (#5a7d7198);
-  color: var(--heading-font-color);
+  color: var(--primary-color);
 
   p {
     margin-bottom: 0;
