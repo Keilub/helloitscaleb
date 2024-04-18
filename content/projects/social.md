@@ -24,7 +24,7 @@ I led the design and strategy for social campaigns from the beginning of the bra
 
 ##### the discovery
 ## User Insights & Ideation
-Our plan addressed these issues in a two-pronged approach. First, we aimed to streamline our online presence by consolidating the 20+ social media accounts into a manageable number, focusing on the platforms most frequented by our target audience. This would allow us to deliver a unified message and cultivate a stronger brand identity.
+Our plan addressed these issues in a two step approach. First, we aimed to streamline our online presence by consolidating the 20+ social media accounts into a manageable number, focusing on the platforms most frequented by our target audience. This would allow us to deliver a unified message and cultivate a stronger brand identity.
 
 Secondly, we wanted to leverage the power of social media to create a vibrant online community. To achieve this, we would develop user personas to understand the needs and interests of our audience segments, which include Scouts, parents, and volunteers. By tailoring content to resonate with each persona, we could foster a space for positive interactions and shared experiences. This platform would allow Scouts to showcase their achievements, parents to connect and share their support, and volunteers to feel valued and appreciated. Ultimately, our goal was to transform social media from a fragmented landscape into a hub of excitement and storytelling, reigniting the magic of Scouting for the digital age.
 
