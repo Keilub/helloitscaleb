@@ -7,12 +7,12 @@ image: /images/6392297.jpg
 page_cover:
 ---
 
-After the refresh of the product packaging, we were in need to fully engaging our audience to drum up excitement for the upcoming year of fundraising. The social media strategy before I arrived was scattered across 20+ accounts and the discussion and attitude of those account was filled with user concerns being unmet/ignored and overall, a negative experience for any user.
+With the new, exciting product packaging in place, our next challenge was to ignite audience enthusiasm for the upcoming fundraising season. However, the existing social media strategy presented a hurdle. Spread thin across over 20 accounts, it fostered a fragmented online presence. Worse yet, the tone of these accounts reflected a history of unaddressed user concerns, creating a negative user experience.
 
 
 ##### the challenge
 ## Meet Their Needs & Engage
-Our goal for the project was to recapture the magic of what it means to be a Scout and the experiences that help fuel the development of the kids that fundraise. The original premise was simple: sell popcorn, go on adventure. Our ambitions were to create a strong visual foundation that allows the user base to embrace and feel positive about their support of the fundraiser. 
+Our goal was to utilize our new refreshed design language with a cleaned up social media platform to craft exciting messages that answered common pain points for easy wins as well as informing users on new and exciting things coming to the fundraiser that allows scouts to fund their year. 
 
 Our goals were to:
 1. Simplify the number of accounts for the company and its users.  
@@ -24,7 +24,9 @@ I led the design and strategy for social campaigns from the beginning of the bra
 
 ##### the discovery
 ## User Insights & Ideation
-Leveraging insights from our social media deep dive and research, I developed a content strategy that targets the needs of three key user personas. These personas will guide our future campaigns, ensuring they effectively reach our target audience and achieve our goals. 
+Our plan addressed these issues in a two-pronged approach. First, we aimed to streamline our online presence by consolidating the 20+ social media accounts into a manageable number, focusing on the platforms most frequented by our target audience. This would allow us to deliver a unified message and cultivate a stronger brand identity.
+
+Secondly, we wanted to leverage the power of social media to create a vibrant online community. To achieve this, we would develop user personas to understand the needs and interests of our audience segments, which include Scouts, parents, and volunteers. By tailoring content to resonate with each persona, we could foster a space for positive interactions and shared experiences. This platform would allow Scouts to showcase their achievements, parents to connect and share their support, and volunteers to feel valued and appreciated. Ultimately, our goal was to transform social media from a fragmented landscape into a hub of excitement and storytelling, reigniting the magic of Scouting for the digital age.
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">

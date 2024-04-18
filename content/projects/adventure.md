@@ -14,7 +14,7 @@ I was part of an ambitious project to redesign the products and brand for one of
 
 ##### the challenge
 ## Recapturing the Magic
-Our goal for the project was to recapture the magic of what it means to be a Scout and the experiences that help fuel the development of the kids that fundraise. The original premise was simple: sell popcorn, go on adventure. Our ambitions were to create a strong visual foundation that allows the user base to embrace and feel positive about their support of the fundraiser. 
+Our goal for the project was to recapture the magic of what it means to be a Scout and the experiences that helps fuel the development of the kids that fundraise. The original premise was simple: sell popcorn, go on adventures. Our ambitions were to create a strong visual foundation that allows the user base to embrace and feel positive about their support of the fundraiser. 
 
 Our goals were to:
 1. Make it simple and easy for everyone, everywhere. 
