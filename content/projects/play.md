@@ -29,5 +29,8 @@ Starting by crafting user personas, this allowed me to strategize were to priori
 
 My personas consisted of 5 types:
 
+![Photo](/images/earworm-header.jpg#wide)
+
+To gain a deeper understanding of how users interact with podcast apps, I conducted a user research survey targeting podcast users, over 1,000 individuals responded, offering valuable insights into their podcast listening habits. Interestingly, the survey revealed that Apple Podcasts and PocketCasts were the two most used apps. While most users expressed general satisfaction with their current experience, some key desires emerged. Auto ad skip/block functionality was a top request, alongside improvements in search functionality and user customization options. These findings suggest that while users are content with the core functionalities, there's room for improvement in specific areas. By delving into these user insights, we can identify ways to enhance the podcast listening experience, addressing frustrations with ads and search limitations while offering more personalized features that cater to the evolving needs of listeners.
 
 ![Photo](/images/earworm-header.jpg#wide)
