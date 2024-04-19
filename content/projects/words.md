@@ -3,7 +3,7 @@ title: words that work
 description: Led redesign of Trail’s End Fundraising Guidebook and other collateral pieces.
 date: 2023-01-08 08:01:35 +0300
 label: 
-image: '/images/GuideCover.jpg'
+image: /images/guidecover.jpg
 ---
 
 The Trail’s End guidebook is the center for all data and instructions for fundraising activities at Trail’s End. It is the ideal place for Scouts and parents to visit when they need aid in selling their products easily and successfully. 
