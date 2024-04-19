@@ -35,7 +35,7 @@ I left the project as the fundraiser was going into its second season with the r
 We began by analyzing Trail's End's existing packaging, recognizing the importance of maintaining the brand's established visual identity.  To achieve a refresh, we implemented a two-pronged approach. First, colors were given a slight saturation boost, enhancing their vibrancy without deviating from the brand's established palette. Second, we incorporated subtle gradients to seamlessly blend product photography with the bolder color elements.  Typography received a modern update while adhering to Trail's End's brand standards. Furthermore, we updated some of the product photos to showcase a more diverse and inclusive range of people enjoying the outdoors and creating memories, ensuring Trail's End resonates with all potential scouts. Finally, a drop shadow effect was introduced, not only adding depth to the packaging design but also offering creative opportunities for future social media campaigns and marketing materials. This effect will play a key role in amplifying the brand's core message of "Adventure Awaits."
 
 ##### the result
-## Small Changes to Big Excitment
+## Big Excitment
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
