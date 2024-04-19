@@ -1,9 +1,9 @@
 ---
-title: thinking outside the inbox
-description: Led the refocus of brand outreach for SePRO
-date: 2023-01-11 07:01:35 +0300
-label: 
-image: '/images/Aquatic-Badges-BottleMock.jpg'
+title: diving deep
+description: Personal rebrand of Indianapolis Zoo.
+date: 2023-01-11 08:01:35 +0300
+label: Mockup
+image: '/images/aquacover4.jpg'
 ---
 
 Mockups are instrumental in the user-centered design process for mobile apps. They enable designers to test and refine their ideas, ensuring that the visual aesthetics and user interactions align with the app’s goals. By presenting a tangible representation of the app’s look and feel, mockups facilitate user feedback and allow for iterative improvements, resulting in a polished and engaging mobile experience.
