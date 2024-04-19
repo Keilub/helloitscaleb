@@ -44,3 +44,7 @@ The answer was staring us in the face – QR codes! These little squares became 
   </div>
   <em>Some of the external guides</em>
 </div>
+
+>“The new popcorn fundraiser guidebook was a lifesaver!  Last year, I felt overwhelmed with explaining everything to my son about selling popcorn.  This year, the guidebook was much simpler and easier to follow.  It had clear steps, pictures, and even a practice sales script. We were confident this time around!”<br>
+<br>
+— Scout Parent
