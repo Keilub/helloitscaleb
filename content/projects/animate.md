@@ -1,9 +1,12 @@
 ---
-title: animating clean water
-description: Led animation design and storyboard.
+title: stewards of water
+description: Branding the Ultimate Applicator Event.
 date: 2023-01-12 08:01:35 +0300
 image: '/images/'
 ---
+
+![Photo](/images/STOW-Image-INSP.png#wide)
+
 
 Mockups are instrumental in the user-centered design process for mobile apps. They enable designers to test and refine their ideas, ensuring that the visual aesthetics and user interactions align with the app’s goals. By presenting a tangible representation of the app’s look and feel, mockups facilitate user feedback and allow for iterative improvements, resulting in a polished and engaging mobile experience.
 
