@@ -34,3 +34,7 @@ Responsible for determining the creative direction of Market District's core val
 3. Management of class resources and time, so classes went smoothly.
 ##### freelance designer, Aug 2015 - present
 As a designer with a diverse skill set, I utilize the magic of Adobe Creative Suite, Affinity Designer, and Microsoft 365 (among others) to weave lasting, functional stories into visual experiences. Whether navigating the collaborative landscapes of major companies or nurturing local businesses, I thrive in dynamic settings fueled by teamwork, communication, and problem-solving. From crafting impactful branding to sculpting intuitive user journeys, my passion lies in translating complex problems into captivating visuals and narratives that resonate with diverse audiences. So, if you're seeking a design partner who thrives on collaboration and breathes life into your vision, let's unlock the magic together.
+
+---
+
+[download a pdf version of resume](/files/cAllen-resume-24.pdf)
