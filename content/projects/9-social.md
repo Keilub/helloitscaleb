@@ -60,3 +60,10 @@ Secondly, we wanted to leverage the power of social media to create a vibrant on
 </div>
 
 The new design went effective July 2023. 
+
+---
+
+##### continue to my next case study
+Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+
+<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>

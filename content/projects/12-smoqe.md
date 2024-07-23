@@ -22,3 +22,10 @@ Wireframes are not just static sketches; they are a vital communication tool. Th
 *Photo by [Alphabag](https://via.placeholder.com/1200x800) on [Unsplash](https://via.placeholder.com/1200x800)*
 
 Mobile development projects often involve multiple stakeholders, each with their own unique perspective and requirements. Mockups serve as a common language that unifies these diverse perspectives. By presenting a comprehensive visual representation of the app’s design, mockups enable stakeholders to provide constructive feedback, resolve conflicts, and ensure that everyone’s needs are addressed.
+
+---
+
+##### continue to my next case study
+Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+
+<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>

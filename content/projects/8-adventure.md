@@ -60,3 +60,10 @@ The redesign of the product packaging has had a positive impact on customer enga
 * Increased representation of average user and consumer. 
 * 7% decline in customer complaints on cost, with an improvement in social media channels becoming more positive space for fundraiser discussion. 
 * 37% increase of sales from previous year
+
+---
+
+##### continue to my next case study
+Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+
+<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>

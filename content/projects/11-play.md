@@ -34,3 +34,10 @@ My personas consisted of 5 types:
 To gain a deeper understanding of how users interact with podcast apps, I conducted a user research survey targeting podcast users, over 1,000 individuals responded, offering valuable insights into their podcast listening habits. Interestingly, the survey revealed that Apple Podcasts and PocketCasts were the two most used apps. While most users expressed general satisfaction with their current experience, some key desires emerged. Auto ad skip/block functionality was a top request, alongside improvements in search functionality and user customization options. These findings suggest that while users are content with the core functionalities, there's room for improvement in specific areas. By delving into these user insights, we can identify ways to enhance the podcast listening experience, addressing frustrations with ads and search limitations while offering more personalized features that cater to the evolving needs of listeners.
 
 ![Photo](/images/earworm-header.jpg#wide)
+
+---
+
+##### continue to my next case study
+Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+
+<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>

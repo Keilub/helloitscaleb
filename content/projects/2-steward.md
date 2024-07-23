@@ -30,3 +30,10 @@ To improve the attendee experience, a custom event app was made with Whoova. Thi
 The rebranding and new features improved the Ultimate Applicator Event. They led to attendees feeling appreciated and built trust and excitement around the new brand identity. Many people adopted the new and streamlined event app. Utilizing it to manage their schedules, track points, and connect with others. The app made info easy to access. It removed confusion and saved time. The unified branding made the Ultimate Applicator Event unique and exciting with a new sense of professionalism to the event.
 
 By rebranding the Ultimate Applicator Event and introducing interactive elements, the project fostered a more engaging and memorable experience for attendees. This also led to an increase in attendance and general excitement for the brand. The strong brand identity further emphasized the event's significance within SEPRO's Stewards of Water program.
+
+---
+
+##### continue to my next case study
+I transformed complex industry jargon into a visually compelling, single-page solution that resonated deeply with our target audience of golf course superintendents and lawn care operators. Our design focused on clarity and ease-of-use, resulting in a remarkable 12% sales increase and fewer customer queries, proving that simplicity truly sells in the competitive landscape of agricultural products.
+
+<a href="https://keilub.com/projects/3-eop/">early order program</a>

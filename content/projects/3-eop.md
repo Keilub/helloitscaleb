@@ -36,3 +36,9 @@ At SePRO, we executed a comprehensive campaign encompassing:
 The 2024 SePRO EOP delivered the highest gross sales of any EOP to date for SePRO. Our new EOP design and strategy led to a 12% sales increase from the previous year. It also led to a significant drop in customer questions about the program. Furthermore, SePRO's sales leadership praised the program's straightforward marketing approach. They noted how it empowered them. It let them focus on sales conversations by cutting the need to explain a complex program. In conclusion, SePRO's 2024 EOP proved to be a win-win for both SePRO and its customers. Customers could easily stock up on essential products. They did not need to decipher complicated details.
 
 
+---
+
+##### continue to my next case study
+TBD
+
+<a href="https://keilub.com/projects/4-script/">sescript</a>

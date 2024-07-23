@@ -35,3 +35,10 @@ Step one, Assess Your Waterbody, represents the initial realization of a problem
 ##### the results
 ## Crystal Clear
 The revamped brochure yielded a wave of positive results. Customers, both homeowners, and professionals, found the information they needed to choose the perfect product for their aquatic needs. Targeted communication led to increased sales across both segments. The guide has also proven invaluable for our technical specialist. It is a resource for them to stay up to date on SePRO aquatic products capabilities. By focusing on clear communication and showcasing the transformative power of our products, we fostered a stronger brand identity. 
+
+---
+
+##### continue to my next case study
+Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+
+<a href="https://keilub.com/projects/6-diy/">sepro diy labels</a>
