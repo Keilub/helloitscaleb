@@ -1,7 +1,7 @@
 ---
 title: adventure is out there
 description: Led refresh of the Trail's End Fundraiser Packaging and Social campaigns.
-date: 2023-01-10 08:01:35 +0300
+date: 2023-05-11 08:01:35 +0300
 label:
 image: /images/te-packaging3.png
 page_cover:

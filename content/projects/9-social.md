@@ -1,7 +1,7 @@
 ---
 title: kernels of wisdom
 description: Led design and implementation of social media campaigns.
-date: 2023-01-10 02:01:35 +0300
+date: 2023-04-11 08:01:35 +0300
 label:
 image: /images/6392297.jpg
 page_cover:

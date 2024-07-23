@@ -1,7 +1,7 @@
 ---
 title: beyond pressing play
 description: Led design of EarWorm Podcast app focusing on accessibility and experience for users.
-date: 2023-01-09 08:01:35 +0300
+date: 2023-02-11 08:01:35 +0300
 label: Wireframes
 image: '/images/earworm-cover.jpg'
 ---

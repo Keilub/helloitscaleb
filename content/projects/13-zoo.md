@@ -1,9 +1,9 @@
 ---
-title: diving deep
+title: indianapolis zoo
 description: Personal rebrand of Indianapolis Zoo.
-date: 2023-01-11 08:01:35 +0300
+date: 2022-01-11 08:01:35 +0300
 label: Mockup
-image: '/images/aquacover4.jpg'
+image: '/images/zoocover.jpg'
 ---
 
 Mockups are instrumental in the user-centered design process for mobile apps. They enable designers to test and refine their ideas, ensuring that the visual aesthetics and user interactions align with the app’s goals. By presenting a tangible representation of the app’s look and feel, mockups facilitate user feedback and allow for iterative improvements, resulting in a polished and engaging mobile experience.
@@ -22,8 +22,3 @@ Wireframes are not just static sketches; they are a vital communication tool. Th
 *Photo by [Alphabag](https://via.placeholder.com/1200x800) on [Unsplash](https://via.placeholder.com/1200x800)*
 
 Mobile development projects often involve multiple stakeholders, each with their own unique perspective and requirements. Mockups serve as a common language that unifies these diverse perspectives. By presenting a comprehensive visual representation of the app’s design, mockups enable stakeholders to provide constructive feedback, resolve conflicts, and ensure that everyone’s needs are addressed.
-
-
->"The updated product catalog with its improved layout and addition of useful information has been a game-changer.  It allows me to quickly identify and show the right solutions for my clients in the field, saving valuable time and ensuring I recommend the most effective products for their specific needs."<br>
-<br>
-— Aquatic Technical Specialist
