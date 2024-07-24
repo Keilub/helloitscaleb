@@ -1,6 +1,6 @@
 ---
-title: from murkey waters to clear adventure
-description: Revamped the Aquatic Product Catalog with a purpose. 
+title: aquatic product catalog
+description: Revamped the Aquatic Product Catalog with a story & purpose. 
 date: 2023-08-11 08:01:35 +0300
 image: '/images/Cover_Aquatic Product Brochure.jpg'
 ---
@@ -39,6 +39,6 @@ The revamped brochure yielded a wave of positive results. Customers, both homeow
 ---
 
 ##### continue to my next case study
-Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+TBD
 
 <a href="https://keilub.com/projects/6-diy/">sepro diy labels</a>

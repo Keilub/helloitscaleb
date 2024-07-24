@@ -64,6 +64,6 @@ The new design went effective July 2023.
 ---
 
 ##### continue to my next case study
-Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+As the lead designer tasked with modernizing Trail’s End’s fundraising guidebook, our challenge was clear: simplify a dense, 32-page document into a streamlined, user-friendly format that resonates with our target audience of Scouts and busy volunteers. The existing collateral was cluttered and outdated, hindering effective communication of the fundraising pitch and confusing users. Our solution? We condensed the guidebook into a single, digestible page enriched with QR codes, providing instant access to detailed information without overwhelming the initial glance. This innovative approach not only empowered Scouts and parents with essential selling aids but also aligned with our mission to streamline processes and enhance user experience through intuitive design and technology.
 
-<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>
+<a href="https://keilub.com/projects/10-words/">trail's end gundraising guide</a>

@@ -26,6 +26,6 @@ Mobile development projects often involve multiple stakeholders, each with their
 ---
 
 ##### continue to my next case study
-Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+TBD
 
-<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>
+<a href="https://keilub.com/projects/1-wanderway/">the wanderway brand creation</a>

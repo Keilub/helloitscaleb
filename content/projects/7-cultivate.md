@@ -41,6 +41,6 @@ The Cultivate 2024 trade booth design proved to be a resounding success. The "Mo
 ---
 
 ##### continue to my next case study
-Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+As the lead designer on the Trail’s End popcorn fundraiser redesign project, my mission was to reignite the magic that had faded over time, reconnecting Scouts and customers with the adventure and camaraderie at its core. Collaborating with a diverse team, we revitalized the brand with vibrant colors, modern typography, and inclusive imagery that resonated with both sellers and supporters alike. The refreshed packaging not only boosted customer engagement and sales by 37% but also transformed social media conversations, fostering a more positive space for discussing the fundraiser’s impact on Scout experiences and community involvement.
 
-<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>
+<a href="https://keilub.com/projects/8-adventure/">trail's end packaging redesign</a>

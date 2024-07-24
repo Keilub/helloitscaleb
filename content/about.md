@@ -37,4 +37,4 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 
 ---
 
-[download a pdf version of resume](/files/cAllen-resume-24.pdf)
+[download a pdf version of my resume](/files/cAllen-resume-24.pdf)

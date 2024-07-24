@@ -6,10 +6,10 @@ label:
 image: '/images/Cover_Stewards.jpg'
 ---
 
-![Photo](/images/STOW-Image-INSP.png#wide)
+![Photo](/images/STOW-Cover3.png#wide)
 
 ##### the problem
-## The Concept is Proven, Now It Needs an Identity. 
+## In Need of an Identity. 
 The Ultimate Applicator Event is a critical, bi-yearly business operation for SEPRO's Stewards of Water program. It had seen big growth over two decades. However, it lacked a cohesive brand identity and engaging features to maximize the attendee experience.
 
 ## Collaborative Thinking

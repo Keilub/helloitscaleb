@@ -52,6 +52,6 @@ The answer was staring us in the face – QR codes! These little squares became 
 ---
 
 ##### continue to my next case study
-Read about how I led a rebranding initiative by introducing a minimalist yet vibrant identity, coupled with an interactive event app. The result? Attendees experienced enhanced engagement, streamlined logistics, and a renewed sense of community, all while reinforcing SEPRO's commitment to excellence in aquatic management.
+ Led the UI design as well as the creation and conducting of user surveys. Discover how I turned fresh ideas into a user-friendly interface that sets a new standard for podcasting enjoyment. Dive into my case study to see how I created an app that listeners love, one survey response at a time.
 
-<a href="https://keilub.com/projects/2-steward/">ultimate applicator event</a>
+<a href="https://keilub.com/projects/11-play/">the earworm podcast</a>
