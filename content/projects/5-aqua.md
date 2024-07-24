@@ -10,11 +10,21 @@ Came across the new aquatic brochure. Great job. Well organized, clean.
 Just wanted to say how much I appreciate your hard work. SePRO looks good.” <br>
 -Steve Miller, Retired Foundational SePRO Designer
 
-
+![Photo](/images/aquaticproduct.png#wide)
 
 ##### the problem
 ## A Lost Cause in Cloudy Waters
 The old aquatic product brochure was like a neglected pond. It was murky and stagnant. It failed to capture the transformative power of SePRO's aquatic solutions. Confusing information overwhelmed potential customers. It left them unsure which product to choose for their needs.
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/old1.jpg loading="lazy">
+    <img src= /images/old2.jpg loading="lazy">
+    <img src= /images/old3.jpg loading="lazy">
+    <img src= /images/old4.jpg loading="lazy">
+  </div>
+  <em> Previous Catalog in use.</em>
+</div>
 
 ##### the process
 ## Charting a Course for Clarity: Understanding Our Audience
@@ -29,6 +39,14 @@ Our communication strategy catered to each audience segment. For homeowners and 
 
 ## The Three-Step Story of Transformation
 The redesigned brochure weaves a powerful story into the very fabric of SePRO's 3-step process. This narrative guides readers on a journey from murky frustration to achieving a crystal-clear aquatic paradise.
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/journey1.jpg loading="lazy">
+    <img src= /images/journey2.jpg loading="lazy">
+  </div>
+  <em> Starting with story, giving this simple cataloge character and purpose.</em>
+</div>
 
 Step one, Assess Your Waterbody, represents the initial realization of a problem. The brochure highlights the importance of understanding your water's condition. It mirrors the homeowner's recognition of their algae woes. This step also educates the user on most common "villains" (weeds and algae) of their water quality. Step two,Prescription for Success, becomes the turning point. SePRO's personalized "prescription" reflects the moment of hope and solution. Finally, step three is Implementation. It represents the successful resolution. It achieves a clear and healthy aquatic environment. Adding this story arc to the 3-step process makes the brochure resonate with both homeowners and professionals. It gives them a clear roadmap to achieve their aquatic goals.
 
