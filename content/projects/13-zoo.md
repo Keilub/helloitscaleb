@@ -25,7 +25,7 @@ Mobile development projects often involve multiple stakeholders, each with their
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 TBD
 
 <a href="https://keilub.com/projects/1-wanderway/">the wanderway brand creation</a>

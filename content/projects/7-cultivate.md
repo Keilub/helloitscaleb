@@ -49,7 +49,7 @@ The Cultivate 2024 trade booth design proved to be a resounding success. The "Mo
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 As the lead designer on the Trail’s End popcorn fundraiser redesign project, my mission was to reignite the magic that had faded over time, reconnecting Scouts and customers with the adventure and camaraderie at its core. Collaborating with a diverse team, we revitalized the brand with vibrant colors, modern typography, and inclusive imagery that resonated with both sellers and supporters alike. The refreshed packaging not only boosted customer engagement and sales by 37% but also transformed social media conversations, fostering a more positive space for discussing the fundraiser’s impact on Scout experiences and community involvement.
 
 <a href="https://keilub.com/projects/8-adventure/">trail's end packaging redesign</a>

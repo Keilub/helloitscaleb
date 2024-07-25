@@ -28,15 +28,6 @@ Our plan addressed these issues in a two step approach. First, we aimed to strea
 
 Secondly, we wanted to leverage the power of social media to create a vibrant online community. To achieve this, we would develop user personas to understand the needs and interests of our audience segments, which include Scouts, parents, and volunteers. By tailoring content to resonate with each persona, we could foster a space for positive interactions and shared experiences. This platform would allow Scouts to showcase their achievements, parents to connect and share their support, and volunteers to feel valued and appreciated. Ultimately, our goal was to transform social media from a fragmented landscape into a hub of excitement and storytelling, reigniting the magic of Scouting for the digital age.
 
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src= /images/triple.jpg loading="lazy">
-    <img src= /images/te-promo.png loading="lazy">
-    <img src= /images/te-faq.jpg loading="lazy">
-  </div>
-  <em>The Three Key Personas Developed from our Research of our Social Media Platforms</em>
-</div>
-
 
 ##### how we got there
 ## From Persona to Design
@@ -63,7 +54,7 @@ The new design went effective July 2023.
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 As the lead designer tasked with modernizing Trail’s End’s fundraising guidebook, our challenge was clear: simplify a dense, 32-page document into a streamlined, user-friendly format that resonates with our target audience of Scouts and busy volunteers. The existing collateral was cluttered and outdated, hindering effective communication of the fundraising pitch and confusing users. Our solution? We condensed the guidebook into a single, digestible page enriched with QR codes, providing instant access to detailed information without overwhelming the initial glance. This innovative approach not only empowered Scouts and parents with essential selling aids but also aligned with our mission to streamline processes and enhance user experience through intuitive design and technology.
 
 <a href="https://keilub.com/projects/10-words/">trail's end gundraising guide</a>

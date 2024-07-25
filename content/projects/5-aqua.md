@@ -56,7 +56,7 @@ The revamped brochure yielded a wave of positive results. Customers, both homeow
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 TBD
 
 <a href="https://keilub.com/projects/6-diy/">sepro diy labels</a>

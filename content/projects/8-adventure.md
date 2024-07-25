@@ -63,7 +63,7 @@ The redesign of the product packaging has had a positive impact on customer enga
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 As the lead designer and strategist behind Trail’s End’s social media revitalization, my focus was on uniting fragmented accounts into a cohesive online presence that reflects our renewed brand spirit. By consolidating over 20 social media channels and focusing on user-centric content, we aimed to address common pain points while amplifying excitement for the fundraising season. Through tailored messaging and engaging visuals, we created a positive community space where Scouts, parents, and volunteers could connect, share stories, and celebrate the adventures made possible through our fundraiser. This approach not only simplified our outreach but also strengthened our brand identity and fostered meaningful engagement across platforms, aligning with our mission to fund adventures and create lifelong memories.
 
 <a href="https://keilub.com/projects/9-social/">trail's end social media campaigns</a>

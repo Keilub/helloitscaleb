@@ -60,7 +60,7 @@ The 2024 SePRO EOP delivered the highest gross sales of any EOP to date for SePR
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 TBD
 
 <a href="https://keilub.com/projects/4-script/">sescript</a>

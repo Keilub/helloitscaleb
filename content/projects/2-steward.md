@@ -43,7 +43,7 @@ WIDE IMAGE OF STICKERS]
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 I transformed complex industry jargon into a visually compelling, single-page solution that resonated deeply with our target audience of golf course superintendents and lawn care operators. Our design focused on clarity and ease-of-use, resulting in a remarkable 12% sales increase and fewer customer queries, proving that simplicity truly sells in the competitive landscape of agricultural products.
 
 <a href="https://keilub.com/projects/3-eop/">early order program</a>

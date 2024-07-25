@@ -51,7 +51,7 @@ The answer was staring us in the face – QR codes! These little squares became 
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
  Led the UI design as well as the creation and conducting of user surveys. Discover how I turned fresh ideas into a user-friendly interface that sets a new standard for podcasting enjoyment. Dive into my case study to see how I created an app that listeners love, one survey response at a time.
 
 <a href="https://keilub.com/projects/11-play/">the earworm podcast</a>

@@ -37,7 +37,7 @@ To gain a deeper understanding of how users interact with podcast apps, I conduc
 
 ---
 
-##### continue to my next case study
+##### continue to next case study
 TBD
 
 <a href="https://keilub.com/projects/12-smoqe">smoqe identity</a>
