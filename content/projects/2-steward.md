@@ -19,17 +19,27 @@ In the initial planning stages, understanding our audience was paramount. To do 
 
 In tandem with persona development, mood boards were created to visually explore the new brand identity. These boards incorporated stock imagery and color palettes that resonated with the target audience and desired messaging of the event. We combined user research with creative exploration. We did this to make sure the new branding would not only look good, but also resonate with the aquatic professionals at the Ultimate Applicator Event.
 
+[IMAGE OF INSP IMAGES AND COLORS, TYPEOGRAPHY]
+
 ##### the process
 ## Diverse and Simple
 We arrived at a solution that incorporated both brand alignment and event character. We chose minimalistic illustrations of lakes and ponds, utilizing bold shapes and vivid colors to create a visually distinct brand language. These illustrations showcased the beautiful work we accomplish from the things learned from this vital event. The Cambria font was selected for its exceptional legibility across digital and print mediums. Additionally, Cambria's diverse family offered many options. They allowed for creative and engaging applications while staying accessible to all. This font was widely available. It ensured that presentations and templates could match the new brand language. They could do this even without access to custom fonts.
 
+[SHOWCASE OF THE MINIMAL ILLUSTRATIONS]
+
 To improve the attendee experience, a custom event app was made with Whoova. This one-stop platform empowered attendees to manage their entire event experience. They could access and personalize their schedules. They could take notes and save important information for later. They could even track points earned during the two-day competition. The competition was point-based. It culminated in crowning the coveted "Ultimate Applicator." Finally, fun giveaways, like branded stickers, fostered community. They also solidified brand recognition among attendees.
+
+[WHOOVA APP MOCKUPS]
 
 ##### results
 ## An Identity of Excitment
 The rebranding and new features improved the Ultimate Applicator Event. They led to attendees feeling appreciated and built trust and excitement around the new brand identity. Many people adopted the new and streamlined event app. Utilizing it to manage their schedules, track points, and connect with others. The app made info easy to access. It removed confusion and saved time. The unified branding made the Ultimate Applicator Event unique and exciting with a new sense of professionalism to the event.
 
 By rebranding the Ultimate Applicator Event and introducing interactive elements, the project fostered a more engaging and memorable experience for attendees. This also led to an increase in attendance and general excitement for the brand. The strong brand identity further emphasized the event's significance within SEPRO's Stewards of Water program.
+
+[IMAGE OF SPIRAL NOTEBOOK, MULTIPLE PAGES, BANNERS,
+
+WIDE IMAGE OF STICKERS]
 
 ---
 
