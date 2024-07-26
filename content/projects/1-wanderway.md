@@ -38,12 +38,8 @@ The colors of the brand were carefully chosen, drawing inspiration from classic 
 In addition, the typefaces used in the branding harken back to classic bookmaking traditions while incorporating a modern twist. They reflect the craftsmanship and attention to detail found in vintage children's books, ensuring that every aspect of The Wanderway's visual identity pays homage to the rich history of storytelling through picture books.
 
 ![Photo](/images/Wander-Images-09.png#wide)
-<div class="page__gallery__wrapper">
-  <div class="page__gallery__images">
-    <img src= /images/Wander-Images-01.png loading="lazy">
-    <img src= /images/Wander-Images-02.png loading="lazy">
-  </div>
-</div>
+![Photo](/images/Wander-Images-01.png)
+![Photo](/images/Wander-Images-02.png)
 
 
 Beyond the logo and colors, our branding language mirrors the diversity of narratives found within picture books. From haikus to screenplays and branching narratives, The Wanderway celebrates storytelling in all its forms. Utilizing a unique focus on text and story in such an image focused landscape allowed The Wanderway to stand out. 

@@ -19,13 +19,27 @@ In the initial planning stages, understanding our audience was paramount. To do 
 
 In tandem with persona development, mood boards were created to visually explore the new brand identity. These boards incorporated stock imagery and color palettes that resonated with the target audience and desired messaging of the event. We combined user research with creative exploration. We did this to make sure the new branding would not only look good, but also resonate with the aquatic professionals at the Ultimate Applicator Event.
 
-[IMAGE OF INSP IMAGES AND COLORS, TYPEOGRAPHY]
+![Photo](/images/STOW-Color.png)
+![Photo](/images/STOW-Study-01.png)
 
 ##### the process
 ## Diverse and Simple
 We arrived at a solution that incorporated both brand alignment and event character. We chose minimalistic illustrations of lakes and ponds, utilizing bold shapes and vivid colors to create a visually distinct brand language. These illustrations showcased the beautiful work we accomplish from the things learned from this vital event. The Cambria font was selected for its exceptional legibility across digital and print mediums. Additionally, Cambria's diverse family offered many options. They allowed for creative and engaging applications while staying accessible to all. This font was widely available. It ensured that presentations and templates could match the new brand language. They could do this even without access to custom fonts.
 
-[SHOWCASE OF THE MINIMAL ILLUSTRATIONS]
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/STOW-Study-02.png loading="lazy">
+    <img src= /images/STOW-Study-03.png loading="lazy">
+    <img src= /images/STOW-Study-04.png loading="lazy">
+    <img src= /images/STOW-Study-05.png loading="lazy">
+    <img src= /images/STOW-Study-06.png loading="lazy">
+    <img src= /images/STOW-Study-07.png loading="lazy">
+    <img src= /images/STOW-Study-08.png loading="lazy">
+    <img src= /images/STOW-Study-09.png loading="lazy">
+    <img src= /images/STOW-Study-10.png loading="lazy">
+    <img src= /images/STOW-Study-11.png loading="lazy">
+  </div>
+</div>
 
 To improve the attendee experience, a custom event app was made with Whoova. This one-stop platform empowered attendees to manage their entire event experience. They could access and personalize their schedules. They could take notes and save important information for later. They could even track points earned during the two-day competition. The competition was point-based. It culminated in crowning the coveted "Ultimate Applicator." Finally, fun giveaways, like branded stickers, fostered community. They also solidified brand recognition among attendees.
 

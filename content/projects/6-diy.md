@@ -8,6 +8,8 @@ image: '/images/Cover_DIY1.jpg'
 ##### overview
 SePRO, a well-established company known for its professional-grade products, aimed to introduce a new line of consumer-friendly products targeting the DIY market. The challenge was to create labels that balanced regulatory language with engaging marketing design, ensuring they adhered to SePRO’s stringent internal guidelines while appealing to a broader consumer base.
 
+[OLD PRODUCTS]
+
 ##### the challenge
 ## It's about Balance
 
@@ -16,6 +18,8 @@ Balancing Regulatory and Marketing Language: The primary issue was the need to f
 Aligning with Established Brand Identity: SePRO wanted the new DIY labels to reflect the look and feel of their professional line while being more visually engaging for the average consumer. To address this, a thorough analysis of SePRO’s existing professional product designs was conducted to identify core visual elements and themes. These elements were then integrated into the new designs with adjustments in color schemes, typography, and layout to make them more approachable and attractive to DIY customers.
 
 ##### the process
+
+[PROFESSIONAL IMAGES]
 
 Research and Inspiration: The design process began with an analysis of SePRO’s professional product labels to understand the established visual identity. Additionally, feedback from focus groups consisting of DIY enthusiasts was gathered to identify elements that would resonate most with this demographic.
 
@@ -28,6 +32,19 @@ Feedback and Iteration: Initial designs were presented to SePRO and a selected g
 ## Final Design
 
 The final labels featured a balanced mix of SePRO’s professional design elements and consumer-friendly aesthetics. The use of vibrant colors and clear typography made the labels stand out on shelves. Regulatory information was neatly organized, making it easy for consumers to find necessary details without detracting from the overall appeal. Direct and engaging marketing messages were prominently displayed, effectively communicating the benefits and uses of the products to DIY customers.
+
+![Photo](/images/TSC-Lineup-01.png#wide)
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/BlueBayou.png loading="lazy">
+    <img src= /images/BlackBayou.png loading="lazy">
+    <img src= /images/MidnightBayou.png loading="lazy">
+    <img src= /images/BiologicalLiquid.png loading="lazy">
+    <img src= /images/BiologicalConditioner.png loading="lazy">
+    <img src= /images/MuckReducer.png loading="lazy">
+  </div>
+</div>
 
 ##### the results
 ## Strides Forward
