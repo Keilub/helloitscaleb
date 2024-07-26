@@ -8,7 +8,7 @@ image: '/images/Cover_DIY1.jpg'
 ##### overview
 SePRO, a well-established company known for its professional-grade products, aimed to introduce a new line of consumer-friendly products targeting the DIY market. The challenge was to create labels that balanced regulatory language with engaging marketing design, ensuring they adhered to SePRO’s stringent internal guidelines while appealing to a broader consumer base.
 
-[OLD PRODUCTS]
+![Photo](/images/Old-DIY.png)
 
 ##### the challenge
 ## It's about Balance
@@ -19,7 +19,12 @@ Aligning with Established Brand Identity: SePRO wanted the new DIY labels to ref
 
 ##### the process
 
-[PROFESSIONAL IMAGES]
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/ProProducts.png loading="lazy">
+  </div>
+  <em>SePRO Professional Product Labels.</em>
+</div>
 
 Research and Inspiration: The design process began with an analysis of SePRO’s professional product labels to understand the established visual identity. Additionally, feedback from focus groups consisting of DIY enthusiasts was gathered to identify elements that would resonate most with this demographic.
 
