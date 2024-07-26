@@ -57,6 +57,6 @@ The revamped brochure yielded a wave of positive results. Customers, both homeow
 ---
 
 ##### continue to next case study
-TBD
+In designing SePRO’s new DIY product labels, I tackled the challenge of merging strict regulatory requirements with engaging consumer design. By balancing professional branding elements with vibrant, user-friendly aesthetics, the final labels not only adhered to internal guidelines but also attracted a broader DIY audience, leading to increased market appeal and a successful retail partnership.
 
 <a href="https://keilub.com/projects/6-diy/">sepro diy labels</a>

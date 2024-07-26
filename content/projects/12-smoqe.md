@@ -15,9 +15,20 @@ Full of potential, yet needing a concrete voice and identity, we designed a user
 ##### solution
 I sketched, created mood boards, and strategized based on customer data and team desires. This led to a social campaign to draw foodies in with the unique offerings of this unique eatery.
 
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/smoqe6.jpg loading="lazy">
+    <img src= /images/smoqe5.jpg loading="lazy">
+    <img src= /images/smoqe4.jpg loading="lazy">
+    <img src= /images/smoqe3.jpg loading="lazy">
+    <img src= /images/smoqe2.jpg loading="lazy">
+    <img src= /images/smoqe1.jpg loading="lazy">
+  </div>
+</div>
+
 ---
 
 ##### continue to next case study
-TBD
+In a rebranding project for the Indianapolis Zoo, I transformed its visual identity to deeply connect with conservation efforts and inspire action. By integrating nature-inspired design elements and impactful animal imagery, I successfully strengthened the zoo’s bond with its audience and boosted engagement in its mission.
 
 <a href="https://keilub.com/projects/13-zoo">indianapolis zoo study</a>

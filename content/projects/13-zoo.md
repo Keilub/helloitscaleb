@@ -51,6 +51,6 @@ The rebranding effort successfully created a new, compelling visual identity for
 ---
 
 ##### continue to next case study
-TBD
+In crafting The Wanderway’s brand identity, I aimed to capture the essence of exploration and storytelling that defines classic picture books. By blending nostalgic colors, whimsical typography, and symbolic imagery, I created a visual experience that invites all ages to embark on a magical journey through the world of stories.
 
 <a href="https://keilub.com/projects/1-wanderway/">the wanderway brand creation</a>

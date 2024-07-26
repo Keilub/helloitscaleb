@@ -38,6 +38,6 @@ To gain a deeper understanding of how users interact with podcast apps, I conduc
 ---
 
 ##### continue to next case study
-TBD
+In shaping SMOQE’s identity for Market District, I turned abstract concepts like BBQ and whimsy into a cohesive brand vision. By designing a vibrant, user-friendly layout and launching a targeted social campaign, I transformed SMOQE into a must-visit spot for locals and food enthusiasts alike.
 
 <a href="https://keilub.com/projects/12-smoqe">smoqe identity</a>
