@@ -15,7 +15,12 @@ We explored visuals associated with classic Americana. This means bowling and ba
 
 The previous year's booth design served as a starting point for improvement. We aimed for a cleaner, more open layout. It helped people interact with potential clients. The final booth design embodied our "Modern but Nostalgic" theme perfectly. High-resolution, evocative floral imagery featuring vibrant red, white and blue flowers created a bright environment for visitors. These visuals were punctuated with clean, modern lines and pops of text. 
 
-[PREVIOUS YEARS MOCKUP]
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Boothconcept.jpg loading="lazy">
+  </div>
+  <em> 2023 Cultivate Booth.</em>
+</div>
 
 In our meetings with the team and portfolio leader, we found a big challenge. It was the huge number of products and solutions that SePRO offers. SePRO has many products to promote. Showing them all at a trade show can overwhelm attendees. To fix this, we decided to use a video solution, which also played into the modernity of the booth. It communicates the brand's breadth without overwhelming visitors.
 
