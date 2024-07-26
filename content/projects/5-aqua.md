@@ -53,6 +53,20 @@ Step one, Assess Your Waterbody, represents the initial realization of a problem
 ## Crystal Clear
 The revamped brochure yielded a wave of positive results. Customers, both homeowners, and professionals, found the information they needed to choose the perfect product for their aquatic needs. Targeted communication led to increased sales across both segments. The guide has also proven invaluable for our technical specialist. It is a resource for them to stay up to date on SePRO aquatic products capabilities. By focusing on clear communication and showcasing the transformative power of our products, we fostered a stronger brand identity. 
 
+![Photo](/images/cover.jpg)
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/spread9.jpg loading="lazy">
+    <img src= /images/spread2.jpg loading="lazy">
+    <img src= /images/spread3.jpg loading="lazy">
+    <img src= /images/spread4.jpg loading="lazy">
+    <img src= /images/spread5.jpg loading="lazy">
+    <img src= /images/spread6.jpg loading="lazy">
+    <img src= /images/spread7.jpg loading="lazy">
+    <img src= /images/spread8.jpg loading="lazy">
+  </div>
+</div>
+
 ---
 
 ##### continue to next case study
