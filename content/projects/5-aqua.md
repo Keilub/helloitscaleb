@@ -18,12 +18,11 @@ The old aquatic product brochure was like a neglected pond. It was murky and sta
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
-    <img src= /images/old1.jpg loading="lazy">
-    <img src= /images/old2.jpg loading="lazy">
-    <img src= /images/old3.jpg loading="lazy">
-    <img src= /images/old4.jpg loading="lazy">
+    <img src= /images/oldaqua1.jpg loading="lazy">
+    <img src= /images/oldaqua2.jpg loading="lazy">
+    <img src= /images/oldaqua3.jpg loading="lazy">
   </div>
-  <em> Previous Catalog in use.</em>
+  <em> Previous Catalog design in use.</em>
 </div>
 
 ##### the process
