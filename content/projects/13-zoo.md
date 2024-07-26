@@ -24,6 +24,13 @@ To address these challenges, I started by researching into local perceptions and
 
 The research revealed something. Locals thought the zoo was good. But, it needed a better story. The story should show its global impact. The data suggested that a new, conservation-focused brand could boost donations and community engagement.
 
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Map-Front.png loading="lazy">
+    <img src= /images/Map-Back.png loading="lazy">
+  </div>
+</div>
+
 ##### the process
 
 The rebrand focused on nature-inspired typography and an earthy color palette to reflect the zoo’s commitment to the natural world. The design aimed to evoke feelings of warmth and authenticity. High-quality animal photography was integrated into the design to create a strong visual connection with the zoo’s core mission. This imagery was paired with modern and clean design elements to maintain a fresh, engaging look.
@@ -31,6 +38,13 @@ The rebrand focused on nature-inspired typography and an earthy color palette to
 Billboards and posters were designed to be visually striking, these materials highlighted the zoo’s conservation efforts and featured calls to action that encouraged donations. The map also underwent a significant redesign, incorporating organic illustrations of animals to make it more engaging and informative. The modern layout ensured that visitors could easily navigate the zoo while appreciating the visual storytelling.
 
 ##### the result
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Zoo-Poster.png loading="lazy">
+    <img src= /images/Zoo_Poster.png loading="lazy">
+  </div>
+</div>
 
 The rebranding effort successfully created a new, compelling visual identity for the Indianapolis Zoo. The nature-inspired typography and earthy colors, combined with impactful animal photography, effectively communicated the zoo’s conservation message. The updated billboards, posters, and zoo map not only enhanced the zoo’s brand presence but also increased public engagement and support for its conservation initiatives. The redesigned materials have helped bridge the gap between the zoo and its audience, fostering a deeper connection and encouraging ongoing support for its vital work.
 
