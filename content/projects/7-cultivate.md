@@ -4,6 +4,7 @@ description: Led the design and planning for SePRO booth at Cultivate '24.
 date: 2023-06-11 08:01:35 +0300
 image: '/images/Cover_Cultivate1.jpg'
 ---
+![Photo](/images/Cult-Header.jpg#wide)
 
 ##### the problem
 ## Bring the Past to the Present
@@ -35,7 +36,38 @@ We developed a 15-minute video that played on loop within the booth. The video f
 Informative and visually appealing handouts and collateral were prominently displayed throughout the booth. These materials showcased products and specials. They highlighted success stories and gave contact information for follow-up inquiries. 
 To further enhance engagement, we incorporated fun and nostalgic memorabilia into the booth as takeaways. Pennants featured SePRO products and trading cards showcased our Technical Specialist to double as their business card for the weekend and eye-catching stickers were all available for attendees to take home.
 
-[TRADING CARDS AND PENNENTS WIDE IMAGE WITH 6 OR 9 SELECTED FOR GALLERY UNDERNEATH]
+![Photo](/images/Card-All.jpg#wide)
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Jack.jpg loading="lazy">
+    <img src= /images/Joe.jpg loading="lazy">
+    <img src= /images/Casey.jpg loading="lazy">
+  </div>
+  <em> Example of each style of trading card.</em>
+</div>
+
+![Photo](/images/Shirt.jpg)
+![Photo](/images/Sticker-all.jpg)
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Sticker1.jpg loading="lazy">
+    <img src= /images/Sticker2.jpg loading="lazy">
+  </div>
+  <em> Sticker Closeup.</em>
+</div>
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Pen1.jpg loading="lazy">
+    <img src= /images/Pen2.jpg loading="lazy">
+  </div>
+</div>
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Pen3.jpg loading="lazy">
+    <img src= /images/Pen4.jpg loading="lazy">
+  </div>
+</div>
 
 ##### the results
 ## Final Takeaway
@@ -51,8 +83,14 @@ The Cultivate 2024 trade booth design proved to be a resounding success. The "Mo
 * 500+ new and unique signups to the SePRO Insider Newsletter.
 * Updated trade show look that lead to renewed excitement for the brand and caught the attention of major distributors and greenhouse managers that solidified the companies position in the market.
 
-[GALLERY OF IMAGES AT THE BOOTH, PHOTOGRAPHS.]
-
+![Photo](/images/Booth1.jpg)
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/Booth2.jpg loading="lazy">
+    <img src= /images/Booth3.jpg loading="lazy">
+    <img src= /images/Booth4.jpg loading="lazy">
+  </div>
+</div>
 
 ---
 
