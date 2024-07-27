@@ -6,7 +6,7 @@ label:
 image: '/images/Cover_Stewards.jpg'
 ---
 
-![Photo](/images/STOW-Cover3.png#wide)
+![Photo](/images/STOW-Image-INSP.png#wide)
 
 ##### the problem
 ## In Need of an Identity. 
@@ -21,6 +21,8 @@ In tandem with persona development, mood boards were created to visually explore
 
 ![Photo](/images/STOW-Color.png)
 ![Photo](/images/STOW-Study-01.png)
+
+![Photo](/images/STOW-Cover.jpg#wide)
 
 ##### the process
 ## Diverse and Simple
@@ -43,7 +45,21 @@ We arrived at a solution that incorporated both brand alignment and event charac
 
 To improve the attendee experience, a custom event app was made with Whoova. This one-stop platform empowered attendees to manage their entire event experience. They could access and personalize their schedules. They could take notes and save important information for later. They could even track points earned during the two-day competition. The competition was point-based. It culminated in crowning the coveted "Ultimate Applicator." Finally, fun giveaways, like branded stickers, fostered community. They also solidified brand recognition among attendees.
 
-[WHOOVA APP MOCKUPS]
+![Photo](/images/stowair.jpg)
+
+![Photo](/images/stickercover.jpg#wide)
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/stow1.jpg loading="lazy">
+    <img src= /images/stow2.jpg loading="lazy">
+    <img src= /images/stow3.jpg loading="lazy">
+    <img src= /images/stow4.jpg loading="lazy">
+    <img src= /images/stow5.jpg loading="lazy">
+    <img src= /images/stow6.jpg loading="lazy">
+  </div>
+</div>
+
+![Photo](/images/tri.jpg)
 
 ##### results
 ## An Identity of Excitment
@@ -51,9 +67,21 @@ The rebranding and new features improved the Ultimate Applicator Event. They led
 
 By rebranding the Ultimate Applicator Event and introducing interactive elements, the project fostered a more engaging and memorable experience for attendees. This also led to an increase in attendance and general excitement for the brand. The strong brand identity further emphasized the event's significance within SEPRO's Stewards of Water program.
 
-[IMAGE OF SPIRAL NOTEBOOK, MULTIPLE PAGES, BANNERS,
-
-WIDE IMAGE OF STICKERS]
+![Photo](/images/internal.jpg#wide)
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/gb1.png loading="lazy">
+    <img src= /images/gb2.png loading="lazy">
+    <img src= /images/gb3.png loading="lazy">
+    <img src= /images/gb4.png loading="lazy">
+    <img src= /images/gb5.png loading="lazy">
+    <img src= /images/gb6.png loading="lazy">
+    <img src= /images/gb7.png loading="lazy">
+    <img src= /images/gb8.png loading="lazy">
+    <img src= /images/gb9.png loading="lazy">
+  </div>
+  <em> Samples from the Internal Guidebook, this book consisted of any and all information necessary for this week long event.</em>
+</div>
 
 ---
 
