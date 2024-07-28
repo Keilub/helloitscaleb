@@ -5,14 +5,7 @@ date: 2023-12-11 08:01:35 +0300
 image: '/images/Cover_Wanderway.jpg'
 ---
 
-![Photo](/images/Wander-Cover.png#wide)
-
-
 For so many people, we are introduced to stories from an early age as they capture us and take us on journeys to go beyond what our imaginations can dream. Picture books, in particular, serve as portals to enchanting worlds where every page unfolds a new adventure waiting to be discovered.
-
-When I was designing The Wanderway's brand identity, I wanted to capture the essence of exploration and wonder. These qualities define the world of picture books. I was inspired by the idea that every story begins with a moment of curiosity. This is akin to the wanderway path signs guide us into unknown realms. I envisioned a logo that would embody this spirit. While also symbolizing the spirit of exploration and discovery.
-
-As the logo emerged I explored various elements— typography, playful motifs, and symbolic imagery. I aimed to create a visual representation that not only symbolizes the joyous essence of picture books but also invites viewers of all ages to embark on a journey through the enchanting world of storytelling.
 
 ![Photo](/images/Wander-Images-05.png)
 ![Photo](/images/Wander-Images-06.png)
@@ -22,6 +15,11 @@ As the logo emerged I explored various elements— typography, playful motifs, a
     <img src= /images/Wander-Images-08.png loading="lazy">
   </div>
 </div>
+
+When I was designing The Wanderway's brand identity, I wanted to capture the essence of exploration and wonder. These qualities define the world of picture books. I was inspired by the idea that every story begins with a moment of curiosity. This is akin to the wanderway path signs guide us into unknown realms. I envisioned a logo that would embody this spirit. While also symbolizing the spirit of exploration and discovery.
+
+As the logo emerged I explored various elements— typography, playful motifs, and symbolic imagery. I aimed to create a visual representation that not only symbolizes the joyous essence of picture books but also invites viewers of all ages to embark on a journey through the enchanting world of storytelling.
+
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src= /images/Wander-Images-10.png loading="lazy">
