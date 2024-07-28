@@ -26,19 +26,7 @@ The discovery phase was a quick, high-intensity effort that allowed me to define
 
 Starting by crafting user personas, this allowed me to strategize were to prioritise in the early stages of design. Using these personas constantly throughtou the project guided design decisions, priorities, and lead an empathy focused design language throughout the project. 
 
-My personas consisted of four types;
-
-##### the podcast novice
-Sarah, a college student in a rural area, enjoys exploring various podcast genres like pop culture, true crime, and personal stories. She faces challenges in finding podcasts that match her interests and understanding podcast features. Sarah desires a user-friendly interface with genre-based recommendations and social sharing features to discuss and recommend podcasts with friends.
-
-##### the commuter listener
-Emily, a marketing manager in an urban area, seeks podcasts on marketing, business, and personal development. She values easy navigation and offline listening, crucial during her data-limited commute. Emily appreciates personalized recommendations and an intuitive interface for efficient podcast discovery and management amidst her busy schedule.
-
-##### the tech enthusiast
-Alex, a software developer, is passionate about technology and stays updated with the latest industry trends. He listens to podcasts on coding techniques, tech news, and startup stories during breaks at work or while commuting. Alex values podcasts with in-depth discussions and expert interviews, enhancing his professional knowledge and skills. He seeks a podcast app that offers seamless integration with his tech devices and provides notifications for new episodes from his subscribed channels.
-
-##### the accessibility advocate
-Chris is a disability rights advocate who is blind and relies heavily on screen readers and accessibility features to navigate digital content. They enjoy podcasts on social justice, disability rights, and inclusive design. Chris needs a podcast app with robust accessibility features, including screen reader compatibility, high contrast options, and intuitive navigation that allows them to easily find and listen to podcasts. They value a user-friendly interface with clear labeling of buttons and controls, ensuring an inclusive experience for all users regardless of ability.
+To guide the creation of a podcast app, I developed four distinct personas reflecting diverse user needs and preferences. Sarah, a college student from a rural area, seeks a user-friendly interface with genre-based recommendations and social sharing features to help her explore and discuss various podcast genres. Emily, a marketing manager in an urban setting, values easy navigation, offline listening, and personalized recommendations for managing podcasts during her data-limited commute. Alex, a tech enthusiast and software developer, looks for an app with seamless integration across devices, in-depth discussions, and notifications for new episodes from his favorite tech channels. Lastly, Chris, a disability rights advocate who is blind, requires robust accessibility features such as screen reader compatibility, high contrast options, and intuitive navigation to ensure an inclusive and user-friendly experience.
 
 ![Photo](/images/podwide-02.jpg#wide)
 ![Photo](/images/podwide-01.jpg#wide)
