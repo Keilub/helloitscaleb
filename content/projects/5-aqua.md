@@ -14,7 +14,7 @@ Just wanted to say how much I appreciate your hard work. SePRO looks good.” <b
 
 ##### the problem
 ## A Lost Cause in Cloudy Waters
-The old aquatic product brochure was like a neglected pond. It was murky and stagnant. It failed to capture the transformative power of SePRO's aquatic solutions. Confusing information overwhelmed potential customers. It left them unsure which product to choose for their needs.
+The old aquatic product brochure was like a neglected pond. It was murky and stagnant. It was trying to say too much and ultimatly failed to say anything. Confusing information overwhelmed potential customers. It left them unsure which product to choose for their needs.
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
@@ -27,13 +27,13 @@ The old aquatic product brochure was like a neglected pond. It was murky and sta
 
 ##### the process
 ## Charting a Course for Clarity: Understanding Our Audience
-The journey to this revamped brochure began with a collaborative planning session. We delved into customer needs and identified key words that would guide our design process. One of these core words was "story." We saw that the booklet shouldn't just list products. It should tell a story – your story. It's a story of frustration with murky, polluted water, followed by the change SePRO can bring. This approach became the foundation. It ensures the brochure guides readers from worries about water quality to a safe, enjoyable water body.
+The journey to this revamped brochure began with collaborative planning sessions. We delved into customer needs and identified key words that would guide our design process. One of these core words was "story." We saw that the booklet shouldn't just list products. It should tell a story – your story. It's a story of frustration with murky, polluted water, followed by the change SePRO can bring. This approach became the foundation. It ensures the brochure guides readers from worries about water quality to a safe, enjoyable water body.
 
-To navigate these murky waters, we began with a complete overhaul. Focusing on the specific needs of our audience, we identified two key groups:
+To navigate these waters, we began with a complete overhaul of the booklet. Focusing on the specific needs of our audience, we identified two key groups:
 * Homeowners or Do-It-Yourselfers: Individuals frustrated with unsightly algae growth in their waterbodies.
 * Aquatic Professionals: Experts seeking effective and reliable solutions for their clients' aquatic environments and large scale projects.
 
-Targeted Communication: A Message for Every Need
+## A Message for Every Need
 Our communication strategy catered to each audience segment. For homeowners and the DIY crowd, we replaced complex terminology with clear language and helpful tables. Striking before-and-after visuals showcased the dramatic transformation possible with our products. Easy-to-understand product descriptions empowered them to make informed choices. To address any lingering questions, a dedicated section at the booklet's end provided homeowners, and even professional, with a one-stop shop to connect with SePRO's technical specialists. For aquatic professionals, we delved into the science behind our solutions, demonstrating their effectiveness against various algae and weed types. We addressed their specific concerns by providing information on product safety for fish and plant life.
 
 ## The Three-Step Story of Transformation
@@ -51,7 +51,7 @@ Step one, Assess Your Waterbody, represents the initial realization of a problem
 
 ##### the results
 ## Crystal Clear
-The revamped brochure yielded a wave of positive results. Customers, both homeowners, and professionals, found the information they needed to choose the perfect product for their aquatic needs. Targeted communication led to increased sales across both segments. The guide has also proven invaluable for our technical specialist. It is a resource for them to stay up to date on SePRO aquatic products capabilities. By focusing on clear communication and showcasing the transformative power of our products, we fostered a stronger brand identity. 
+The revamped brochure yielded a wave of positive results. Customers, both homeowners, and professionals, found the information they needed to choose the perfect product for their aquatic needs. Targeted communication led to increased sales across both segments. The guide has also proven invaluable for SePRO's own technical specialist. It is a resource for them to stay up to date on SePRO aquatic products capabilities in a quick and easy to read resource. By focusing on clear communication and showcasing the transformative power of SePRO's products, we fostered a stronger brand identity. 
 
 ![Photo](/images/cover.jpg)
 <div class="page__gallery__wrapper">

@@ -2,7 +2,6 @@
 title: beyond pressing play
 description: Led design of EarWorm Podcast app focusing on accessibility and experience for users.
 date: 2023-02-11 08:01:35 +0300
-label: Wireframes
 image: '/images/earworm-cover.jpg'
 ---
 
@@ -27,13 +26,55 @@ The discovery phase was a quick, high-intensity effort that allowed me to define
 
 Starting by crafting user personas, this allowed me to strategize were to prioritise in the early stages of design. Using these personas constantly throughtou the project guided design decisions, priorities, and lead an empathy focused design language throughout the project. 
 
-My personas consisted of 5 types:
+My personas consisted of four types;
 
-![Photo](/images/earworm-header.jpg#wide)
+##### the podcast novice
+Sarah, a college student in a rural area, enjoys exploring various podcast genres like pop culture, true crime, and personal stories. She faces challenges in finding podcasts that match her interests and understanding podcast features. Sarah desires a user-friendly interface with genre-based recommendations and social sharing features to discuss and recommend podcasts with friends.
+
+##### the commuter listener
+Emily, a marketing manager in an urban area, seeks podcasts on marketing, business, and personal development. She values easy navigation and offline listening, crucial during her data-limited commute. Emily appreciates personalized recommendations and an intuitive interface for efficient podcast discovery and management amidst her busy schedule.
+
+##### the tech enthusiast
+Alex, a software developer, is passionate about technology and stays updated with the latest industry trends. He listens to podcasts on coding techniques, tech news, and startup stories during breaks at work or while commuting. Alex values podcasts with in-depth discussions and expert interviews, enhancing his professional knowledge and skills. He seeks a podcast app that offers seamless integration with his tech devices and provides notifications for new episodes from his subscribed channels.
+
+##### the accessibility advocate
+Chris is a disability rights advocate who is blind and relies heavily on screen readers and accessibility features to navigate digital content. They enjoy podcasts on social justice, disability rights, and inclusive design. Chris needs a podcast app with robust accessibility features, including screen reader compatibility, high contrast options, and intuitive navigation that allows them to easily find and listen to podcasts. They value a user-friendly interface with clear labeling of buttons and controls, ensuring an inclusive experience for all users regardless of ability.
+
+![Photo](/images/podwide-02.jpg#wide)
+![Photo](/images/podwide-01.jpg#wide)
 
 To gain a deeper understanding of how users interact with podcast apps, I conducted a user research survey targeting podcast users, over 1,000 individuals responded, offering valuable insights into their podcast listening habits. Interestingly, the survey revealed that Apple Podcasts and PocketCasts were the two most used apps. While most users expressed general satisfaction with their current experience, some key desires emerged. Auto ad skip/block functionality was a top request, alongside improvements in search functionality and user customization options. These findings suggest that while users are content with the core functionalities, there's room for improvement in specific areas. By delving into these user insights, we can identify ways to enhance the podcast listening experience, addressing frustrations with ads and search limitations while offering more personalized features that cater to the evolving needs of listeners.
 
-![Photo](/images/earworm-header.jpg#wide)
+##### the process
+Translating sketches and ideas into wireframes and digital designs marked a critical step in developing Ear Worm Podcast. The emphasis was on creating a visually appealing and intuitive interface that enhances usability and accessibility. Key features included seamless navigation, personalized recommendations, and offline listening capabilities—catering to users like Emily, the commuter listener, and Alex, the tech enthusiast seeking integration with their devices.
+
+The culmination of these efforts resulted in a full-featured podcasting app poised for a comprehensive pitch to potential investors. Highlighting its user-centric design, robust accessibility features, and alignment with identified market needs, the pitch aimed to secure support for scaling the app's reach and impact.
+
+##### in result
+## Shaping the Future of Podcast Listening
+
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/new1.png loading="lazy">
+    <img src= /images/new2.png loading="lazy">
+    <img src= /images/new3.png loading="lazy">
+    <img src= /images/pod.png loading="lazy">
+    <img src= /images/moreinfo.png loading="lazy">
+    <img src= /images/podedit.png loading="lazy">
+    <img src= /images/edit.png loading="lazy">
+    <img src= /images/seasons.png loading="lazy">
+    <img src= /images/resume.png loading="lazy">
+    <img src= /images/landing.png loading="lazy">
+    <img src= /images/playing.png loading="lazy">
+    <img src= /images/playleft.png loading="lazy">
+    <img src= /images/playright.png loading="lazy">
+    <img src= /images/chapter.png loading="lazy">
+    <img src= /images/share.png loading="lazy">
+  </div>
+</div>
+
+Ear Worm Podcast represents more than just a technological solution; it embodies a commitment to user satisfaction and inclusivity in podcasting. By leveraging insights from user personas, extensive research, and iterative design processes, the app promises to redefine how listeners engage with their favorite content. Moving forward, ongoing user feedback and technological advancements will continue to drive enhancements, ensuring Ear Worm Podcast remains at the forefront of accessible and enjoyable podcast experiences.
+
 
 ---
 

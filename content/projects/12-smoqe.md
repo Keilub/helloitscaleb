@@ -1,8 +1,7 @@
 ---
 title: smoqe it up
-description: Personal rebrand of Indianapolis Zoo.
+description: Brand and Social Marketing Creation.
 date: 2023-01-11 08:01:35 +0300
-label: Mockup
 image: '/images/smoqecover.jpg'
 ---
 

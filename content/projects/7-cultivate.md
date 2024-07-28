@@ -9,6 +9,7 @@ image: '/images/Cover_Cultivate1.jpg'
 ##### the problem
 ## Bring the Past to the Present
 The first brainstorming sessions with the design team and portfolio leader focused on creating a booth that was new and different from anything SePRO had done before. Key phrases like "clean and simple," and "red, white, and blue" guided the design. The aim for simplicity was to counter previous years' designs. Those designs were typically slapped-together signage. The red, white, and blue theme hinted that SePRO is made in America. We aimed to showcase a booth that was eye-catching. It could engage a viewer and make them want to learn more about SePRO.
+
 We explored visuals associated with classic Americana. This means bowling and baseball. We wanted to achieve a blend of “nostalgia” and “modern”. Gradients and textures were incorporated to further enhance the designs depth. Leveraging a previously successful bowling-themed carnival game, we repurposed it into an all-ages game for the booth. The combination of ringing sounds and flashing lights proved to be a crowd-pleaser.
 
 ##### the process

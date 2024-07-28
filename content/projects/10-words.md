@@ -2,7 +2,6 @@
 title: words that work
 description: Led redesign of Trail’s End Fundraising Guidebook and other collateral pieces.
 date: 2023-03-11 08:01:35 +0300
-label: 
 image: /images/guidecover.jpg
 ---
 

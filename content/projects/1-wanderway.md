@@ -18,7 +18,7 @@ For so many people, we are introduced to stories from an early age as they captu
 
 When I was designing The Wanderway's brand identity, I wanted to capture the essence of exploration and wonder. These qualities define the world of picture books. I was inspired by the idea that every story begins with a moment of curiosity. This is akin to the wanderway path signs guide us into unknown realms. I envisioned a logo that would embody this spirit. While also symbolizing the spirit of exploration and discovery.
 
-As the logo emerged I explored various elements— typography, playful motifs, and symbolic imagery. I aimed to create a visual representation that not only symbolizes the joyous essence of picture books but also invites viewers of all ages to embark on a journey through the enchanting world of storytelling.
+As the logo emerged I explored various elements— typography, playful motifs, and symbolic imagery. I aimed to create a visual representation that not only symbolizes the joyous essence of picture books but also invites viewers of all ages to embark on a journey through the enchanting world of storytelling and text.
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
@@ -31,7 +31,7 @@ As the logo emerged I explored various elements— typography, playful motifs, a
 ![Photo](/images/Wander-Images-13.png)
 
 
-The colors of the brand were carefully chosen, drawing inspiration from classic picture books such as "Where the Wild Things Are" by Maurice Sendak and "The Three Robbers" by Tomi Ungerer. These timeless stories provided a palette that evokes nostalgia and whimsy, resonating with both adults and children alike.
+The colors of the brand were carefully chosen, drawing inspiration from classic picture books such as "Where the Wild Things Are" by Maurice Sendak and "The Three Robbers" by Tomi Ungerer. These timeless stories provided a palette that evokes nostalgia and whimsy, resonating with both adults and children alike. Other areas that were inspiration for the colors were places that evoked story, like campfires and libraries. 
 
 In addition, the typefaces used in the branding harken back to classic bookmaking traditions while incorporating a modern twist. They reflect the craftsmanship and attention to detail found in vintage children's books, ensuring that every aspect of The Wanderway's visual identity pays homage to the rich history of storytelling through picture books.
 
@@ -40,7 +40,7 @@ In addition, the typefaces used in the branding harken back to classic bookmakin
 ![Photo](/images/Wander-Images-02.png)
 
 
-Beyond the logo and colors, our branding language mirrors the diversity of narratives found within picture books. From haikus to screenplays and branching narratives, The Wanderway celebrates storytelling in all its forms. Utilizing a unique focus on text and story in such an image focused landscape allowed The Wanderway to stand out. 
+Beyond the logo and colors, the branding language mirrors the diversity of narratives found within picture books. From poetry to novels and branching narratives, The Wanderway celebrates storytelling in all its forms. Utilizing a unique focus on text and story in such an image focused landscape allowed The Wanderway to stand out. 
 
 For me, The Wanderway is more than just a brand—it's a celebration of the transformative power of storytelling. It's about sparking imagination. It's about fostering empathy. It's about creating moments of wonder. These moments touch all ages. Join The Wanderway as it embarks on a journey of exploration and storytelling, where each turn of the page reveals a new adventure waiting to be shared and cherished.
 

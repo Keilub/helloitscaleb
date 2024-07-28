@@ -7,7 +7,7 @@ image: '/images/Cover_SeSCRIPT.jpg'
 
 ##### the problem
 ## Confusing Technical Jargon
-The old report was decades old. It was hard for customers to grasp its key information for their waterbody. This was due to its dense text and out-of-date design. Lack of visual hierarchy made it difficult to understand the most important findings. One of the biggest challenges for this design task was it needing to be editable for scientist to input results and data for end users. 
+The old report was decades old. It was hard for customers to grasp its key information for their waterbody. This was due to its dense and out-of-date design. A lack of visual hierarchy made it difficult to understand the most important findings. One of the biggest challenges for this design task was it also needing to be editable for scientist to input results and data for end users. 
 
 ![Photo](/images/old2.jpg)
 <div class="page__gallery__wrapper">
@@ -29,7 +29,7 @@ A modern design and brand refresh with clean layout, easy-to-read fonts, and a c
 
 ![Photo](/images/graph.tiff)
 
-A key addition to the report was the introduction of an easy-to-understand waterbody health graph. This infographic presents a visual representation of the overall toxicity of the customer's water sample, allowing for an immediate grasp of potential problems.
+A key addition to the report was the introduction of an easy-to-understand waterbody health graph. This infographic presents a quick visual representation of the overall toxicity of the customer's water sample, allowing for an immediate grasp of potential problems.
 
 ##### results
 Customers, both new and old, reported a significant improvement in comprehending their water analysis results. Increased customer satisfaction is evident with the SePRO SeSCRIPT water analysis service. Sharing reports with customers becomes effortless. Reduced customer inquiries for clarification lead to improved efficiency and trust for SePRO.
@@ -52,6 +52,6 @@ The new SePRO SeSCRIPT Water Analysis Report shows the value of clear and short 
 ---
 
 ##### continue to next case study
-I led the overhaul of SePRO's aquatic product brochure, I envisioned a transformation from murky confusion to clear, compelling clarity. By weaving a narrative that resonates with both homeowners and aquatic professionals alike, our redesigned brochure not only simplifies complex information but also guides readers through a journey of understanding and empowerment. This approach not only led to positive customer feedback but also reinforced SePRO's commitment to excellence in aquatic solutions, ensuring the brand shines brightly in a crowded market.
+I led the overhaul of SePRO's aquatic product brochure. By weaving a narrative that resonates with both homeowners and aquatic professionals alike, our redesigned brochure not only simplifies complex information but also guides readers through a journey of understanding and empowerment. This approach not only led to positive customer feedback but also reinforced SePRO's commitment to excellence in aquatic solutions, ensuring the brand shines brightly in a crowded market.
 
 <a href="https://keilub.com/projects/5-aqua/">aquatic product catalog</a>

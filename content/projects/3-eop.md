@@ -11,13 +11,14 @@ The competition has booklets and complex programs. Ours focuses on one easy-to-u
 ##### the problem
 ## Too Complicated
 
-Every fall, golf course superintendents and lawn care operators face the challenge of finding the best deals on essential products. These include fungicides, herbicides, and insecticides for the following year. Early Order Programs (EOPs) from companies like SePRO offer solutions. However, with many programs vying for their business, understanding the complex pricing and getting the most savings can be tricky.
+Every fall, golf course superintendents and lawn care operators face the challenge of finding the best deals on essential products. These include fungicides, herbicides, and insecticides for the following year. Early Order Programs (EOPs) from companies like SePRO offer solutions. However, with many programs vying for their business, understanding the complex pricing of these programs and getting the most savings can be tricky. SePRO aimed to cut through the confusion of EOP offer booklets with a simple 2024 pricing strategy. Simply offer the best deals and savings. This meant ditching complex reward systems. Which were common in previous years and among competitors. 
 
-SePRO aimed to cut through the confusion of EOP offers with a simple 2024 pricing strategy. Simply offer the best deals and savings. This meant ditching complex reward systems. They were common in previous years and among competitors. A big challenge emerged. It is difficult to convey simplicity across many mediums such as digital ads, print materials, website content, sales brochures, social media campaigns, and partner promotions. Additionally, grabbing the attention of stressed buyers is not easy. They face tough, fast, and competitive choices from many suitors.
+A big challenge emerged. It is difficult to convey simplicity across many mediums such as digital ads, print materials, website content, sales brochures, social media campaigns, and partner promotions. Additionally, grabbing the attention of stressed buyers is not easy. They face tough, fast, and competitive choices from many suitors.
 
 ##### the process
 ## A Time for Self Reflection
 We started by reviewing dozens of past programs from ourselves and the competition. We did this to find a unique visual and messaging space. As with many B2B marketing promotions, competitors used generic, industry-focused visuals that provided little insight into the supplier's brand or what differentiated their offerings from others.
+
 SePRO took a data-driven and creative approach. They chose transparency to show clear value and developed a memorable style. This concept proudly showcased SePRO's simple savings. It achieved this with a design that focused on the savings, featuring clean and simple graphics that are laid out to best showcase the program. It stood out from overly complex competitor programs by presenting an offer simple enough to live on a single sheet of paper. To further empower customers, SePRO's user-friendly digital calculator helped everyone access every deal they deserved. This program uniquely respected customers' time and attention, demonstrating SePRO's commitment to prioritizing their needs.
 
 <div class="page__gallery__wrapper">
