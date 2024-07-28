@@ -3,7 +3,7 @@
 baseURL = "http://keilub.com/"
 languageCode = "en-us"
 title = "hello its caleb"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+googleAnalytics = "G-Y7GY179FPK" # Add your identifier. For example UA-99631805-1.
 paginate = 3
 
 
