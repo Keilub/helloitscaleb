@@ -28,7 +28,13 @@ In our meetings with the team and portfolio leader, we found a big challenge. It
 
 ![Photo](/images/Cultivate-Color.png)
 
-[UPDATED MOCKUP OF THE BOOTH DESIGN]
+![Photo](/images/cult24mocks-01.jpg)
+<div class="page__gallery__wrapper">
+  <div class="page__gallery__images">
+    <img src= /images/cult24mocks-02.jpg loading="lazy">
+    <img src= /images/cult24mocks-03.jpg loading="lazy">
+  </div>
+</div>
 
 We developed a 15-minute video that played on loop within the booth. The video featured short, engaging stories. They highlighted each of the company's relevant key products and solutions. We offered a variety of extra materials for each product to go with the video. They let attendees take away detailed info. To match the shift to online info, we also put all product details online. This let attendees access it after the show without carrying around paper the entire show.
 
