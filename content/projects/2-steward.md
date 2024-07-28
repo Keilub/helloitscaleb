@@ -15,6 +15,8 @@ The Ultimate Applicator Event is a critical, bi-yearly business operation for SE
 ## Collaborative Thinking
 Roughly ten months before the event, a meticulous planning process began. We held meetings every two weeks to brainstorm. We wanted to create a strong, unique voice for the Ultimate Applicator Event. It would set the event apart from other parts of SePRO's business. The main goals were to create a new brand identity. It would match SePRO's minimalist and simple brand, but also be a bit different. They also wanted to add interactive elements to boost attendee participation and excitement. Additionally, they wanted to establish a central hub for all event info and activities.
 
+![Photo](/images/StewardSpace.png)
+
 In the initial planning stages, understanding our audience was paramount. To do this, we developed user personas for two key kinds of attendees: first-timers and veterans of the Ultimate Applicator Event. The personas focused on aquatic professionals. They specialize in treating waterbodies for algae and weeds. They rely on SePRO products in their daily work. Through this process, we gained valuable insights into their needs and expectations. For instance, newcomers might need more about the event format and networking. Veterans might want advanced product training or industry updates.
 
 In tandem with persona development, mood boards were created to visually explore the new brand identity. These boards incorporated stock imagery and color palettes that resonated with the target audience and desired messaging of the event. We combined user research with creative exploration. We did this to make sure the new branding would not only look good, but also resonate with the aquatic professionals at the Ultimate Applicator Event.
