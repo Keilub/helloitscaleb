@@ -2,7 +2,7 @@
 title: beyond pressing play
 description: Led design of EarWorm Podcast app focusing on accessibility and experience for users.
 date: 2023-02-11 08:01:35 +0300
-image: '/images/earworm-cover.jpg'
+image: '/images/iOSappdock.png'
 ---
 
 >“accessible design is good design — it benefits people who don’t have disabilities as well as people who do. Accessibility is all about removing barriers and providing the benefits of technology for everyone.”<br>
