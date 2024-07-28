@@ -61,6 +61,6 @@ The 2024 SePRO EOP delivered the highest gross sales of any EOP to date for SePR
 ---
 
 ##### continue to next case study
-TBD
+Revamping SePRO’s outdated water analysis report was no small feat; we transformed a dense, confusing document into an accessible, visually engaging resource. By incorporating feedback from scientists and modernizing the design, we’ve made it easier for customers to grasp crucial information and take action on their water quality.
 
 <a href="https://keilub.com/projects/4-script/">sescript</a>
