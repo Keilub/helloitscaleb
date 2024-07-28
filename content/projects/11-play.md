@@ -79,6 +79,6 @@ Ear Worm Podcast represents more than just a technological solution; it embodies
 ---
 
 ##### continue to next case study
-In shaping SMOQE’s identity for Market District, I turned abstract concepts like BBQ and whimsy into a cohesive brand vision. By designing a vibrant, user-friendly layout and launching a targeted social campaign, I transformed SMOQE into a must-visit spot for locals and food enthusiasts alike.
+In crafting The Wanderway’s brand identity, I aimed to capture the essence of exploration and storytelling that defines classic picture books. By blending nostalgic colors, whimsical typography, and symbolic imagery, I created a visual experience that invites all ages to embark on a magical journey through the world of stories.
 
-<a href="https://keilub.com/projects/12-smoqe">smoqe identity</a>
+<a href="https://keilub.com/projects/1-wanderway/">the wanderway brand creation</a>

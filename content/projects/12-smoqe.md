@@ -1,7 +1,7 @@
 ---
 title: smoqe it up
 description: Brand and Social Marketing Creation.
-date: 2023-01-11 08:01:35 +0300
+date: 2323-01-11 08:01:35 +0300
 image: '/images/smoqecover.jpg'
 ---
 
