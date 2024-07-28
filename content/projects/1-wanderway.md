@@ -45,6 +45,7 @@ Beyond the logo and colors, our branding language mirrors the diversity of narra
 For me, The Wanderway is more than just a brand—it's a celebration of the transformative power of storytelling. It's about sparking imagination. It's about fostering empathy. It's about creating moments of wonder. These moments touch all ages. Join The Wanderway as it embarks on a journey of exploration and storytelling, where each turn of the page reveals a new adventure waiting to be shared and cherished.
 
 ![Photo](/images/wanderpost.jpg#wide)
+
 ![Photo](/images/wanderbag.jpg#wide)
 
 ---

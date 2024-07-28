@@ -31,8 +31,6 @@ In our meetings with the team and portfolio leader, we found a big challenge. It
 
 We developed a 15-minute video that played on loop within the booth. The video featured short, engaging stories. They highlighted each of the company's relevant key products and solutions. We offered a variety of extra materials for each product to go with the video. They let attendees take away detailed info. To match the shift to online info, we also put all product details online. This let attendees access it after the show without carrying around paper the entire show.
 
-> “SePRO has the best collateral in the industry. Nothing else to be said.”
-
 Informative and visually appealing handouts and collateral were prominently displayed throughout the booth. These materials showcased products and specials. They highlighted success stories and gave contact information for follow-up inquiries. 
 To further enhance engagement, we incorporated fun and nostalgic memorabilia into the booth as takeaways. Pennants featured SePRO products and trading cards showcased our Technical Specialist to double as their business card for the weekend and eye-catching stickers were all available for attendees to take home.
 

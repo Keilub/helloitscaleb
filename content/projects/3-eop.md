@@ -36,6 +36,8 @@ SePRO took a data-driven and creative approach. They chose transparency to show 
   <em>Ornamental Early Order One Sheet</em>
 </div>
 
+> “SePRO has the best collateral in the industry. Nothing else to be said.”
+
 ##### results
 ## In Review
 At SePRO, we executed a comprehensive campaign encompassing:

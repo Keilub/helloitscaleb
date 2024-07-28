@@ -9,10 +9,10 @@ image: '/images/Cover_SeSCRIPT.jpg'
 ## Confusing Technical Jargon
 The old report was decades old. It was hard for customers to grasp its key information for their waterbody. This was due to its dense text and out-of-date design. Lack of visual hierarchy made it difficult to understand the most important findings. One of the biggest challenges for this design task was it needing to be editable for scientist to input results and data for end users. 
 
+![Photo](/images/old2.jpg)
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src= /images/old1.jpg loading="lazy">
-    <img src= /images/old2.jpg loading="lazy">
     <img src= /images/old3.jpg loading="lazy">
     <img src= /images/old4.jpg loading="lazy">
   </div>
