@@ -47,6 +47,7 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 * Figma
 * Adobe Illustrator, Photoshop and InDesign
 * Adobe Premiere and After Effects
+* Affinity Designer, Photo and Publisher
 * Wordpress and Hugo CMS
 * Mailchimp
 * Graphite and Pastel Mediums
