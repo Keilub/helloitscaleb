@@ -65,8 +65,8 @@ The revamped brochure yielded a wave of positive results. Customers, both homeow
     <img src= /images/spread6.jpg loading="lazy">
     <img src= /images/spread7.jpg loading="lazy">
     <img src= /images/spread8.jpg loading="lazy">
-    <em> Page samples, full guide can be found on the sepro website on the aquatic page.</em>
   </div>
+  <em> Page samples, full guide can be found on the sepro website on the aquatic page.</em>
 </div>
 
 ---
