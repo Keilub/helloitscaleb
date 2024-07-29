@@ -46,6 +46,7 @@ We arrived at a solution that incorporated both brand alignment and event charac
 </div>
 
 ![Photo](/images/whoova.jpg#wide)
+
 To improve the attendee experience, a custom event app was made with Whoova. This one-stop platform empowered attendees to manage their entire event experience. They could access and personalize their schedules. They could take notes and save important information for later. They could even track points earned during the two-day competition. The competition was point-based. It culminated in crowning the coveted "Ultimate Applicator." Finally, fun giveaways, like branded stickers, fostered community. They also solidified brand recognition among attendees.
 
 ![Photo](/images/stowair.jpg)
