@@ -35,6 +35,24 @@ Responsible for determining the creative direction of Market District's core val
 ##### freelance designer, Aug 2015 - present
 As a designer with a diverse skill set, I utilize the magic of Adobe Creative Suite, Affinity Designer, and Microsoft 365 (among others) to weave lasting, functional stories into visual experiences. Whether navigating the collaborative landscapes of major companies or nurturing local businesses, I thrive in dynamic settings fueled by teamwork, communication, and problem-solving. From crafting impactful branding to sculpting intuitive user journeys, my passion lies in translating complex problems into captivating visuals and narratives that resonate with diverse audiences. So, if you're seeking a design partner who thrives on collaboration and breathes life into your vision, let's unlock the magic together.
 
+## Skills & Expertise
+* Branding
+* Design Strategy
+* User Interface
+* User Experience
+* Marketing Campaigns
+* Research and Analysis
+* 2D Animation
+* Story Mapping and Wireframing
+* Figma
+* Adobe Illustrator, Photoshop and InDesign
+* Adobe Premiere and After Effects
+* Wordpress and Hugo CMS
+* Mailchimp
+* Graphite and Pastel Mediums
+* Acrylic, Oils and Watercolor Paints
+* Photography
+
 ---
 
 [download a pdf version of my resume](/files/cAllen-resume-24.pdf)
