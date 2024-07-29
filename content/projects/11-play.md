@@ -34,13 +34,14 @@ To gain a deeper understanding of how users interact with podcast apps, I conduc
 ##### the process
 Translating sketches and ideas into wireframes and digital designs marked a critical step in developing Ear Worm Podcast. The emphasis was on creating a visually appealing and intuitive interface that enhances usability and accessibility. Key features included seamless navigation, personalized recommendations, and offline listening capabilities—catering to users like Emily, the commuter listener, and Alex, the tech enthusiast seeking integration with their devices.
 
-To enhance the user experience and create a memorable brand identity for the Ear Worm Podcast app, a unique worm-like character was introduced, inspired by the concept of an "ear worm"—the persistent sensation of having a catchy tune or lyric stuck in one's head. This character draws design elements from popular Tamagotchi-style games and Carrot Weather's whimsical avatars, adding a playful and engaging touch to the app. The worm character serves as the app's mascot, offering a face for the onboarding process and adding a layer of charm that differentiates Ear Worm Podcast from other podcast apps. This addition not only provides users with a fun and interactive element but also reinforces the app's brand identity. Importantly, the character is designed with user flexibility in mind; those who prefer a more streamlined experience can easily disable the worm feature, ensuring that the app remains versatile and accessible to all users. This thoughtful integration of character design helps transform Ear Worm Podcast from a mere utility into an engaging and personalized experience, catering to both those who enjoy playful interactions and those who seek a straightforward listening platform.
-
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src= /images/eargif.gif loading="lazy">
   </div>
 </div>
+
+To enhance the user experience and create a memorable brand identity for the Ear Worm Podcast app, a unique worm-like character was introduced, inspired by the concept of an "ear worm"—the persistent sensation of having a catchy tune or lyric stuck in one's head. This character draws design elements from popular Tamagotchi-style games and Carrot Weather's whimsical avatars, adding a playful and engaging touch to the app. The worm character serves as the app's mascot, offering a face for the onboarding process and adding a layer of charm that differentiates Ear Worm Podcast from other podcast apps. This addition not only provides users with a fun and interactive element but also reinforces the app's brand identity. Importantly, the character is designed with user flexibility in mind; those who prefer a more streamlined experience can easily disable the worm feature, ensuring that the app remains versatile and accessible to all users. This thoughtful integration of character design helps transform Ear Worm Podcast from a mere utility into an engaging and personalized experience, catering to both those who enjoy playful interactions and those who seek a straightforward listening platform.
+
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
     <img src= /images/earnowplay.png loading="lazy">
