@@ -89,6 +89,6 @@ As of the writing of this case study, August, the event has not started but we h
 ---
 
 ##### continue to next case study
-I transformed complex industry jargon into a visually compelling, single-page solution that resonated deeply with our target audience of golf course superintendents and lawn care operators. Our design focused on clarity and ease-of-use, resulting in a remarkable 12% sales increase and fewer customer queries, proving that simplicity truly sells in the competitive landscape of agricultural products.
+I transformed complex industry jargon into a visually compelling, single-page solution that resonated deeply with our target audience of golf course superintendents and lawn care operators. Our design focused on clarity and ease-of-use, see how it stood out in a sea of confusion. 
 
 <a href="https://keilub.com/projects/3-eop/">early order program</a>
