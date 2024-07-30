@@ -58,7 +58,7 @@ At SePRO, we executed a comprehensive campaign encompassing:
   </div>
 </div>
 
-Stay tuned for final results of how our new EOP design and philosphy. 
+Stay tuned for final results of our new EOP design and philosphy. 
 
 
 ---
