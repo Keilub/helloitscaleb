@@ -47,7 +47,8 @@ For me, The Wanderway is more than just a brand—it's a celebration of the tran
 ![Photo](/images/wanderpost.jpg#wide)
 
 ![Photo](/images/wanderbag.jpg#wide)
-
+![Photo](/images/Bookmark-06.jpg#wide)
+![Photo](/images/bookmarkscene.jpg#wide)
 ---
 
 ##### continue to next case study
