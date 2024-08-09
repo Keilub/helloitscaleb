@@ -8,9 +8,9 @@ image: '/images/Cover_Cultivate1.jpg'
 
 ##### the problem
 ## Bring the Past to the Present
-The first brainstorming sessions with the design team and portfolio leader focused on creating a booth that was new and different from anything SePRO had done before. Key phrases like "clean and simple," and "red, white, and blue" guided the design. The aim for simplicity was to counter previous years' designs. Those designs were typically slapped-together signage. The red, white, and blue theme hinted that SePRO is made in America. We aimed to showcase a booth that was eye-catching. It could engage a viewer and make them want to learn more about SePRO.
+The first brainstorming sessions with the design team and portfolio leader focused on creating a booth that was new and different from anything SePRO had done before. Key phrases like "clean and simple," and "red, white, and blue" guided the design. The aim for simplicity was to counter previous years' designs. Those designs were typically slapped-together signage. The red, white, and blue theme hinted that SePRO is made in America. We aimed to showcase an eye-catching booth. It could engage a viewer and make them want to learn more about SePRO.
 
-We explored visuals associated with classic Americana. This means bowling and baseball. We wanted to achieve a blend of “nostalgia” and “modern”. Gradients and textures were incorporated to further enhance the designs depth. Leveraging a previously successful bowling-themed carnival game, we repurposed it into an all-ages game for the booth. The combination of ringing sounds and flashing lights proved to be a crowd-pleaser.
+We explored visuals associated with classic Americana. This means bowling and baseball. We wanted to achieve a blend of “nostalgia” and “modern”. Gradients and textures were incorporated to further enhance the design's depth. Leveraging a previously successful bowling-themed carnival game, we repurposed it into an all-ages game for the booth. The combination of ringing sounds and flashing lights proved to be a crowd-pleaser.
 
 ##### the process
 ## Branding a Booth
@@ -83,10 +83,10 @@ To further enhance engagement, we incorporated fun and nostalgic memorabilia int
 The Cultivate 2024 trade booth design proved to be a resounding success. The "Modern but Nostalgic" theme resonated with attendees, fostering positive interactions and generating a significant amount of interest in the SePRO brand and products. The repurposed carnival game not only served as a conversation starter but also demonstrated the company's commitment to fun and engagement. By combining nostalgic elements with a modern aesthetic, we were able to capture the essence of the SePRO brand and achieve significant engagement at the Cultivate event.
 
 ## By the Numbers
-* Initial design spend of $15,000+ that lead to the setting up of 2 new distributors and an overall return of investment of $537,000+
+* Initial design spend of $15,000+ that lead to the setting up of 2 new distributors and an overall return on investment of $537,000+
 * 1,100+ Unique visitors to the booth that lead to new leads and future partnerships.
 * 500+ new and unique signups to the SePRO Insider Newsletter.
-* Updated trade show look that lead to renewed excitement for the brand and caught the attention of major distributors and greenhouse managers that solidified the companies position in the market.
+* Updated trade show look that led to renewed excitement for the brand and caught the attention of major distributors and greenhouse managers solidifying the company's position in the market.
 
 ![Photo](/images/Booth1.jpg)
 <div class="page__gallery__wrapper">
@@ -100,6 +100,6 @@ The Cultivate 2024 trade booth design proved to be a resounding success. The "Mo
 ---
 
 ##### continue to next case study
-As the lead designer on the Trail’s End popcorn fundraiser redesign project, my mission was to reignite the magic that had faded over time, reconnecting Scouts and customers with the adventure and camaraderie at its core. Collaborating with a diverse team, we revitalized the brand with vibrant colors, modern typography, and inclusive imagery that resonated with both sellers and supporters alike. The refreshed packaging not only boosted customer engagement and sales by 37% but also transformed social media conversations, fostering a more positive space for discussing the fundraiser’s impact on Scout experiences and community involvement.
+As the lead designer on the Trail’s End popcorn fundraiser redesign project, my mission was to reignite the magic that had faded over time, reconnecting Scouts and customers with adventure and camaraderie at its core. Collaborating with a diverse team, we revitalized the brand with vibrant colors, modern typography, and inclusive imagery that resonated with both sellers and supporters alike. The refreshed packaging not only boosted customer engagement and sales by 37% but also transformed social media conversations, fostering a more positive space for discussing the fundraiser’s impact on Scout experiences and community involvement.
 
 <a href="https://keilub.com/projects/8-adventure/">trail's end packaging redesign</a>

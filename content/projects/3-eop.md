@@ -19,7 +19,7 @@ A big challenge emerged. It is difficult to convey simplicity across many medium
 ## A Time for Self Reflection
 We started by reviewing dozens of past programs from ourselves and the competition. We did this to find a unique visual and messaging space. As with many B2B marketing promotions, competitors used generic, industry-focused visuals that provided little insight into the supplier's brand or what differentiated their offerings from others.
 
-SePRO took a data-driven and creative approach. They chose transparency to show clear value and developed a memorable style. This concept proudly showcased SePRO's simple savings. It achieved this with a design that focused on the savings, featuring clean and simple graphics that are laid out to best showcase the program. It stood out from overly complex competitor programs by presenting an offer simple enough to live on a single sheet of paper. To further empower customers, SePRO's user-friendly digital calculator helped everyone access every deal they deserved. This program uniquely respected customers' time and attention, demonstrating SePRO's commitment to prioritizing their needs.
+SePRO took a data-driven and creative approach. They chose transparency to show clear value and developed a memorable style. This concept proudly showcased SePRO's simple savings. It achieved this with a design that focused on savings, featuring clean and simple graphics that are laid out to best showcase the program. It stood out from overly complex competitor programs by presenting an offer simple enough to live on a single sheet of paper. To further empower customers, SePRO's user-friendly digital calculator helped everyone access every deal they deserved. This program uniquely respected customers' time and attention, demonstrating SePRO's commitment to prioritizing their needs.
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
@@ -58,7 +58,7 @@ At SePRO, we executed a comprehensive campaign encompassing:
   </div>
 </div>
 
-Stay tuned for final results of our new EOP design and philosphy. 
+Stay tuned for the final results of our new EOP design and philosophy. 
 
 
 ---

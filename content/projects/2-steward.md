@@ -13,13 +13,13 @@ image: '/images/Cover_Stewards.jpg'
 The Ultimate Applicator Event is a critical, bi-yearly business operation for SEPRO's Stewards of Water program. It had seen big growth over two decades. However, it lacked a cohesive brand identity and engaging features to maximize the attendee experience.
 
 ## Collaborative Thinking
-Roughly ten months before the event, a meticulous planning process began. We held meetings every two weeks to brainstorm. We wanted to create a strong, unique voice for the Ultimate Applicator Event. It would set the event apart from other parts of SePRO's business. The main goals were to create a new brand identity. It would match SePRO's minimalist and simple brand, but also be a bit different. They also wanted to add interactive elements to boost attendee participation and excitement. Additionally, they wanted to establish a central hub for all event info and activities.
+Roughly ten months before the event, a meticulous planning process began. We held meetings every two weeks to brainstorm. We wanted to create a strong, unique voice for the Ultimate Applicator Event. It would set the event apart from other parts of SePRO's business. The main goal was to create a new brand identity. It would match SePRO's minimalist and simple brand, but also be a bit different. They also wanted to add interactive elements to boost attendee participation and excitement. Additionally, they wanted to establish a central hub for all event info and activities.
 
 ![Photo](/images/StewardSpace.png)
 
 In the initial planning stages, understanding our audience was paramount. To do this, we developed user personas for two key kinds of attendees: first-timers and veterans of the Ultimate Applicator Event. The personas focused on aquatic professionals. They specialize in treating waterbodies for algae and weeds. They rely on SePRO products in their daily work. Through this process, we gained valuable insights into their needs and expectations. For instance, newcomers might need more about the event format and networking. Veterans might want advanced product training or industry updates.
 
-In tandem with persona development, mood boards were created to visually explore the new brand identity. These boards incorporated stock imagery and color palettes that resonated with the target audience and desired messaging of the event. We combined user research with creative exploration. We did this to make sure the new branding would not only look good, but also resonate with the aquatic professionals at the Ultimate Applicator Event.
+In tandem with persona development, mood boards were created to visually explore the new brand identity. These boards incorporated stock imagery and color palettes that resonated with the target audience and desired messaging of the event. We combined user research with creative exploration. We did this to make sure the new branding would not only look good but also resonate with the aquatic professionals at the Ultimate Applicator Event.
 
 ![Photo](/images/STOW-Color.png)
 ![Photo](/images/STOW-Study-01.png)
@@ -67,7 +67,7 @@ To improve the attendee experience, a custom event app was made with Whoova. Thi
 
 ##### results
 ## An Identity of Excitment
-As of the writing of this case study, August, the event has not started but we have received a great excitment in the teasers we have revealed and attendence for the event currently stands at a 20% increase from the previously most attended event. The team is excited for October and I look forward to following up here with user comments and thoughts come October. 
+As of the writing of this case study, August, the event has not started but we have received great excitement in the teasers we have revealed and attendance for the event currently stands at a 20% increase from the previously most attended event. The team is excited for October and I look forward to following up here with user comments and thoughts come October. 
 
 
 ![Photo](/images/internal.jpg#wide)
