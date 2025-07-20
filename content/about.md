@@ -41,6 +41,8 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 * User Interface
 * User Experience
 * Marketing Campaigns
+* Editable Branded Collateral (Word & Adobe PDFs)
+* Branded Presentations (PowerPoint)
 * Research and Analysis
 * 2D Animation
 * Story Mapping and Wireframing
