@@ -12,7 +12,7 @@ I thrive in the dynamic world where creativity meets business, creating experien
 
 ## Experience
 
-##### designer & marketing director, sepro, jan. 2024 - present
+##### designer & marketing lead, sepro, jan. 2024 - present
 With a story focused mission and brand, I helped our users protect, preserve and restore millions of acres of nature. Working across multiple divisions of the company—online, retail, government agencies, professionals and every day people my designs educated on proper aquatic care and environmental protection. 
 1. Designed booklets, brochures, labels, other printed materials and digital collateral covering all aspects of SePRO’s divisions.
 2. Web Design that made for a modern user experience to best assist our new and existing users. As well as crafted digital assets for education and awareness social/online marketing campaigns.
