@@ -55,6 +55,7 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 * Graphite and Pastel Mediums
 * Acrylic, Oils and Watercolor Paints
 * Photography
+* Tradeshow Booth Design
 
 ---
 
