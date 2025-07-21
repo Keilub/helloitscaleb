@@ -62,4 +62,5 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 <br>
 — Michael Shaner, Director of Marketing | Water
 <br>
+---
 [download a pdf version of my resume](/files/cAllen-Resume.pdf)
