@@ -10,6 +10,10 @@ I'm a husband, <a href= "/maple/"> dog </a> & <a href= "/sushi/"> cat </a> dad, 
 My strength lies in accessible, user-friendly designs and crafting products people love. Working closely with CEOs, I’ve navigated a variety of challenges - from small business to Fortune 500 companies - always with a design first approach.
 I thrive in the dynamic world where creativity meets business, creating experiences and products that delight and inspire.
 
+>“Caleb knows what he wants. He’s aware of a bigger picture and has an instinct that pushes him to gain a global perspective on what he does as an artist and as a human in general, the two respectively informing his work.”<br>
+<br>
+— Dominic Scibilia
+
 ## Experience
 
 ##### designer & marketing lead, sepro, jan. 2024 - present
