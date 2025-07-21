@@ -58,5 +58,8 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 * Tradeshow Booth Design
 
 ---
-
+>"Caleb’s efforts to brand webpages, product packaging/boxes, and marketing pieces makes us very visible. Caleb sets a great example and is an excellent colleague."<br>
+<br>
+— Michael Shaner, Director of Marketing | Water
+>
 [download a pdf version of my resume](/files/cAllen-Resume.pdf)
