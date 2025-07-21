@@ -3,6 +3,8 @@ layout: contact
 title: 
 image: ''
 ---
->“Caleb knows what he wants. He’s aware of a bigger picture and has an instinct that pushes him to gain a global perspective on what he does as an artist and as a human in general, the two respectively informing his work.”<br>
+>"Caleb’s efforts to brand webpages, product packaging/boxes, and marketing pieces makes us very visible. Caleb sets a great example and is an excellent colleague."<br>
 <br>
-— Dominic Scibilia
+— Michael Shaner, Director of Marketing | Water
+<br>
+---
