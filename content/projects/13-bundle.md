@@ -107,9 +107,9 @@ So, our site followed suit: clear copy, visual storytelling, and a streamlined p
 </div>
 
 ##### takeaways & a funny end
-This project proved the power of combining clarity, flexibility, and storytelling. By aligning with StoryBrand principles—guiding our customers, not spotlighting ourselves—we built a product that was easy to promote, easy to adopt, and easy to love.
+This project proved the power of combining clarity, flexibility, and storytelling. By aligning with StoryBrand principles, guiding our customers, not spotlighting ourselves, we built a product that was easy to promote, easy to adopt, and easy to love.
 
-One funny surprise? During the build phase, a customer somehow found our test website (yes, still labeled “Under Construction”), and subscribed to a kit anyway. No ads, no formal launch—just a good product and a clear story.
+One funny surprise? During the build phase, a customer somehow found our test website (yes, still labeled “Under Construction”), and subscribed to a kit anyway. No ads, no formal launch, just a good product and a clear story.
 
 Sometimes, when you put the right tools in the right hands, people show up before you're even ready.
 
