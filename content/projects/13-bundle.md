@@ -17,17 +17,17 @@ image: '/images/Bundle_Cover.jpg'
 The Lab Bundle Kit was created at the intersection of two rising needs: the growing popularity of subscription-based products, and SePRO’s goal to expand its lab services through a scalable, business-to-business model.
 
 Designed to be sold to water treatment businesses, who in turn offer it to their customers, this product solves real-world problems on both sides of the equation:
-* Businesses stay stocked and ready—no waiting, no reordering, no downtime.
-* End users get timely diagnostics, faster answers, and smarter solutions—without needing to seek out SePRO themselves.
+* Businesses stay stocked and ready, no waiting, no reordering, no downtime.
+* End users get timely diagnostics, faster answers, and smarter solutions, without needing to seek out SePRO themselves.
 
 This recurring kit takes the guesswork out of water testing. Everything arrives on time, every time, eliminating the need to remember schedules or reorder supplies. It saves time, labor, and money, while building trust through consistent, science-driven results.
 
 But beyond convenience, the Lab Bundle Kit was built with a bigger purpose:
 “Making the Invisible, Visible.”
 
-Unlike companies that only treat the symptoms, this diagnostic kit helps identify the actual cause of water quality issues. With a full-spectrum lab analysis, users gain real insight into what’s happening beneath the surface—so they can act with confidence and a true plan of action, not assumptions and reactions.
+Unlike companies that only treat the symptoms, this diagnostic kit helps identify the actual cause of water quality issues. With a full-spectrum lab analysis, users gain real insight into what’s happening beneath the surface, so they can act with confidence and a true plan of action, not assumptions and reactions.
 
-From concept to execution, the bundle was designed around simplicity and ease. For businesses, it’s a plug-and-play solution they can promote with confidence. For their customers, it’s a stress-free path to cleaner, healthier water, grounded in data—not guesswork.
+From concept to execution, the bundle was designed around simplicity and ease. For businesses, it’s a plug-and-play solution they can promote with confidence. For their customers, it’s a stress-free path to cleaner, healthier water, grounded in data, not guesswork.
 
 And throughout it all, SePRO embraced its StoryBrand philosophy, making the customer, not the company, the hero of the story. SePRO simply plays the role of guide: empowering professionals to solve meaningful problems in their communities and become the trusted resource their customers rely on.
 Because at the end of the day, when our customers succeed, so does SePRO.
@@ -109,7 +109,7 @@ So, our site followed suit: clear copy, visual storytelling, and a streamlined p
 ##### takeaways & a funny end
 This project proved the power of combining clarity, flexibility, and storytelling. By aligning with StoryBrand principles—guiding our customers, not spotlighting ourselves—we built a product that was easy to promote, easy to adopt, and easy to love.
 
-One funny surprise? During the build phase, a customer somehow found our test website (yes, still labeled “Under Construction”)—and subscribed to a kit anyway. No ads, no formal launch—just a good product and a clear story.
+One funny surprise? During the build phase, a customer somehow found our test website (yes, still labeled “Under Construction”), and subscribed to a kit anyway. No ads, no formal launch—just a good product and a clear story.
 
 Sometimes, when you put the right tools in the right hands, people show up before you're even ready.
 
