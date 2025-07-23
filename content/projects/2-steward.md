@@ -89,6 +89,6 @@ As of the writing of this case study, August, the event has not started but we h
 ---
 
 ##### continue to next case study
-I transformed complex industry jargon into a visually compelling, single-page solution that resonated deeply with our target audience of golf course superintendents and lawn care operators. Our design focused on clarity and ease-of-use, see how it stood out in a sea of confusion. 
+As part of a cross-functional team, I helped lead the creation of a full-service lab kit experience—from positioning and messaging to design, collateral, and ecommerce. See how we turned a complex diagnostic product into a co-branded, customer-ready subscription system that makes science feel simple, clear, and actionable.
 
-<a href="https://keilub.com/projects/3-eop/">early order program</a>
+<a href="https://keilub.com/projects/13-bundle/">brand. bundle. deliver.</a>
