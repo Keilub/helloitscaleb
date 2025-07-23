@@ -35,17 +35,17 @@ Because at the end of the day, when our customers succeed, so does SePRO.
 ##### the problem
 ## Branding Challenges & Creative Problem-Solving
 
-One of the core challenges we faced was developing branding and imagery that could serve multiple purposes without causing confusion. The collateral needed to feel SePRO-authentic—maintaining our brand’s professionalism and trust—but also remain flexible enough for third-party water treatment businesses to personalize and use as their own.
+One of the core challenges we faced was developing branding and imagery that could serve multiple purposes without causing confusion. The collateral needed to feel SePRO-authentic, maintaining our brand’s professionalism and trust, but also remain flexible enough for third-party water treatment businesses to personalize and use as their own.
 
 This created a careful balancing act:
 * The visuals had to reflect SePRO’s authority and expertise, without overshadowing the businesses promoting the product.
 * The language had to be clear and inviting, eliminating technical jargon that could overwhelm the end user, while still delivering precise information.
-* Every piece of collateral—from flyers to instructions—needed to feel polished yet approachable, and modular enough for businesses nationwide to edit, co-brand, and distribute with ease.
+* Every piece of collateral, from flyers to instructions, needed to feel polished yet approachable, and modular enough for businesses nationwide to edit, co-brand, and distribute with ease.
 * Most critically, we had to communicate the concept of “making the invisible, visible”. Explaining that this kit reveals underlying causes of poor water quality, without getting too technical or confusing the user. The message had to educate without alienating, and inspire trust without sounding clinical or critical.
 
-We repeatedly tested and refined messaging to ensure it anticipated customer questions rather than created more. Simplicity became the filter for every design decision—from iconography and typography to the copy tone and call-to-actions.
+We repeatedly tested and refined messaging to ensure it anticipated customer questions rather than created more. Simplicity became the filter for every design decision, from iconography and typography to the copy tone and call-to-actions.
 
-Ultimately, the result was a brand-forward yet co-brand-friendly system that communicates clarity, builds trust, and helps drive adoption—both by the businesses we support and the customers they serve.
+Ultimately, the result was a brand-forward yet co-brand-friendly system that communicates clarity, builds trust, and helps drive adoption, both by the businesses we support and the customers they serve.
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
