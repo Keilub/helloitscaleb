@@ -115,7 +115,7 @@ Sometimes, when you put the right tools in the right hands, people show up befo
 
 <div class="page__gallery__wrapper">
   <div class="page__gallery__images">
-    <img src= /images/WWater_Health_Shipping_Kit.jpg loading="lazy">
+    <img src= /images/Water_Health_Shipping_Kit.jpg loading="lazy">
     <img src= /images/Shipping_Box.png loading="lazy">
   </div>
   <em>Left, Individual Bundles Box. Right, How multiple bundles are shipped to businesses.</em>
