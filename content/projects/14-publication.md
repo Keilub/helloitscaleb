@@ -68,7 +68,6 @@ To further amplify that momentum, we strategically paired our print efforts wit
     <img src= /images/Digital_4.jpg loading="lazy">
     <img src= /images/Digital_6.jpg loading="lazy">
     <img src= /images/Digital_9.jpg loading="lazy">
-    <img src= /images/Digital_8.jpg loading="lazy">
   </div>
   <em>Assortment of the digital advertisements that ran in pairing with publication ads.</em>
 </div>
