@@ -14,7 +14,7 @@ image: '/images/Presentation_Cover.jpg'
 ##### the challenge
 ## Bridging Sales and Technical with Consistent, Customizable Materials
 
-The SePRO teams needed versatile presentation and PDF assets that could support both technical specialists and leadership. The challenge was to create materials that are easy to customize for different audiences—distributors, end-users, or internal teams—while staying tightly aligned with brand guidelines. Previous resources lacked flexibility and often didn’t reflect the polished, professional image the company wanted to project.
+The SePRO teams needed versatile presentation and PDF assets that could support both technical specialists and leadership. The challenge was to create materials that are easy to customize for different audiences, distributors, end-users, or internal teams, while staying tightly aligned with brand guidelines. Previous resources lacked flexibility and often didn’t reflect the polished, professional image the company wanted to project.
 
 The goal? To develop editable, user-friendly PDFs and PowerPoint decks that would enhance live webinars, pitches, and training, all while maintaining a consistent visual identity tied to our broader marketing efforts.
 
@@ -45,7 +45,7 @@ The language and design approach struck the right balance, technical enough for 
 ##### results
 ## Branded Tools to Empower & Grow
 
-The shift from scattered, inconsistent collateral to a unified, editable system of branded materials marked a major upgrade in how our team communicates. What once required multiple design requests and last-minute edits is now a streamlined process—with team members confidently using materials that look professional and feel aligned with our larger brand.
+The shift from scattered, inconsistent collateral to a unified, editable system of branded materials marked a major upgrade in how our team communicates. What once required multiple design requests and last-minute edits is now a streamlined process, with team members confidently using materials that look professional and feel aligned with our larger brand.
 
 By giving specialists and sales teams tools they could trust and tailor, we not only elevated the quality of our pitches but also saved significant time on the backend. I no longer need to create dozens of custom assets for each team member—instead, they’re empowered with resources that are easy to update while staying within brand.
 
@@ -67,7 +67,7 @@ We also saw greater internal adoption of brand standards. Because the materials 
 ##### takeaways
 ## Consistent Flexible Design
 
-* Consistency fuels confidence: When teams are equipped with materials that are both easy to use and visually cohesive, they’re more likely to adopt them—and stay on message.
+* Consistency fuels confidence: When teams are equipped with materials that are both easy to use and visually cohesive, they’re more likely to adopt them, and stay on message.
 * One brand, one story: Carrying campaign visuals (like pop-out and layered elements) across all materials helps reinforce a unified identity, no matter the medium while also keeping the content fresh and up-to-date.
 * Time saved is value gained: A shared library of editable, brand-approved tools reduces design bottlenecks while maintaining quality.
 * Smart collateral becomes foundational: These materials are more than one-off assets, they’re the framework for how SePRO shows up, communicates, and connects. And now that they are built they can easily be utilized and updated to fit evolving campaigns to keep SePRO at the forefront of visual impact. 
