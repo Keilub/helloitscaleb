@@ -1,7 +1,7 @@
 ---
 title: early order program
 description: Developed a Simple Early Order Program.
-date: 2023-10-11 08:01:35 +0300
+date: 2223-10-11 08:01:35 +0300
 image: '/images/Cover_EOP1.jpg'
 ---
 
