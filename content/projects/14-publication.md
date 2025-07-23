@@ -22,11 +22,11 @@ But that came with obstacles:
 ##### the approach
 ## Results You Can See
 
-Our campaign centered on one clear focus: each ad highlighted 2–4 tangible results customers could achieve with our products — tailored specifically to the needs of each market segment. This approach put real-world benefits front and center, making the value easy to understand and act on.
+Our campaign centered on one clear focus: each ad highlighted 2–4 tangible results customers could achieve with our products, tailored specifically to the needs of each market segment. This approach put real-world benefits front and center, making the value easy to understand and act on.
 
 To extend the reach beyond print, every ad included QR codes driving traffic to our website, seamlessly connecting readers to deeper product information and resources. This was paired with a targeted digital campaign on the publication’s website, reinforcing key messages and increasing engagement.
 
-We also leveraged a free educational poster that positioned SePRO as a thought leader in the industry — emphasizing our science-driven approach and commitment to helping customers succeed with evidence-based guidance.
+We also leveraged a free educational poster that positioned SePRO as a thought leader in the industry, emphasizing our science-driven approach and commitment to helping customers succeed with evidence-based guidance.
 This multi-channel strategy ensured consistent messaging across print and digital, focused on outcomes customers care about and supported by trusted expertise.
 
 <div class="page__gallery__wrapper">
@@ -86,7 +86,7 @@ Beyond visibility, we used the campaign to position SePRO as a trusted resource
 
 The impact of the full campaign strategy:
 * A 29% increase in ad recall, showing our unified visual system and focused messaging made a lasting impression
-* A 12% increase in action taken — whether that meant visiting the website, referencing a product, or reaching out to a sales rep
+* A 12% increase in action taken, whether that meant visiting the website, referencing a product, or reaching out to a sales rep
 
 From feedback surveys and sales conversations, a few key themes emerged:
 * Customers appreciated the clarity and brevity of the ads.
