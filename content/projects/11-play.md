@@ -82,7 +82,7 @@ Ear Worm Podcast represents more than just a technological solution; it embodies
 ---
 
 ##### continue to next case study
-In crafting The Wanderway’s brand identity, I aimed to capture the essence of exploration and storytelling that defines classic picture books. By blending nostalgic colors, whimsical typography, and symbolic imagery, I created a visual experience that invites all ages to embark on a magical journey through the world of stories.
+I led the development of a 60-second animated explainer video designed to educate and inform key stakeholders affected by Florida’s SB 7040. From persona-driven scripting and storyboarding to animation and voiceover direction, this case study shows how we transformed complex regulatory content into a clear, engaging, and action-driving resource, with real results and measurable audience impact.
 
-<a href="https://keilub.com/projects/1-wanderway/">the wanderway brand creation</a>
+<a href="https://keilub.com/projects/12-florida/">florida department of environmental protection</a>
 
