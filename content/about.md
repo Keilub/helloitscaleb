@@ -65,3 +65,7 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 ---
 
 [download a pdf version of my resume](/files/cAllen-Resume.pdf)
+
+>“Caleb is a talented professional. I truly appreciate everything he does for me and our teams — his work makes a real difference.”<br>
+<br>
+— Sean Lynch, VP of SePRO Land
