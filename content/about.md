@@ -14,7 +14,6 @@ I thrive in the dynamic world where creativity meets business, creating experien
 <br>
 — Dominic Scibilia, Mentor
 ---
-[download a pdf version of my resume](/files/cAllen-Resume.pdf)
 
 ## Experience
 
@@ -64,4 +63,6 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 * Tradeshow Booth Design
 
 ---
+
+[download a pdf version of my resume](/files/cAllen-Resume.pdf)
 
