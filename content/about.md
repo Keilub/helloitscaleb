@@ -71,21 +71,86 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 <details>
 <summary>what is your design process?</summary>
   
-  I don’t follow a rigid, cookie-cutter process — instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
+  I don’t follow a rigid, cookie-cutter process. Instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
 <br>
   
 ##### phase one
-Research: I begin by aligning on the core message and auditing existing assets to identify strengths and pain points. I study competitors, consult stakeholders, and distill everything into a clear thesis that guides the project.
+**Research:** I begin by aligning on the core message and auditing existing assets to identify strengths and pain points. I study competitors, consult stakeholders, and distill everything into a clear thesis that guides the project.
 <br>
 
 ##### phase two 
-Exploration: With the strategy in place, I dive into creating wireframes or storyboards, defining visual styles, and developing reusable elements, all while keeping the core message front and center. I explore different tones and approaches to turn strategy into tangible, engaging visuals. 
+**Exploration:** With the strategy in place, I dive into creating wireframes or storyboards, defining visual styles, and developing reusable elements, all while keeping the core message front and center. I explore different tones and approaches to turn strategy into tangible, engaging visuals. 
 <br>
 
 ##### phase three
-Iteration: Iteration happens in two phases. First, I work collaboratively to take and test feedback and finalize the design and/or campaign. Then, if necessary, I follow up to dissect data and talk with users and consumers to inform any further iterations in follow-up designs or campaign pivots. This ensures that the final designs and campaigns are not only visually compelling but also practical and effective both at launch and over the course of the designs use.
+**Iteration:** Iteration happens in two phases. First, I work collaboratively to take and test feedback and finalize the design and/or campaign. Then, if necessary, I follow up to dissect data and talk with users and consumers to inform any further iterations in follow-up designs or campaign pivots. This ensures that the final designs and campaigns are not only visually compelling but also practical and effective both at launch and over the course of the designs use.
 <br>
 
 ##### honorable mention
-Play: Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (I love a good pothos) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.
+**Play:** Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (I love a good pothos) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.
+</details>
+
+
+<details>
+<summary>how do you decide on the layout & elements of your designs?</summary>
+  
+  Deciding on layout and elements begins with understanding the project’s goals, audience, and messaging. I establish a clear visual hierarchy that guides the user’s eye through the content logically and engagingly, starting with a solid grid structure for alignment and consistency. This foundation ensures balance and coherence across all design elements.
+
+I carefully select typography, spacing, and color palettes that align with brand guidelines while supporting readability and visual appeal. When specific instructions are provided, I integrate them thoughtfully to meet project requirements without compromising usability or aesthetics. For interactive elements, I prioritize intuition and accessibility, ensuring seamless navigation.
+
+Throughout the process, I test different layouts and gather feedback to refine the design. The goal is to create a cohesive, functional, and visually compelling design that effectively communicates the intended message while adhering to brand standards and project specifications.
+</details>
+
+
+<details>
+<summary>how do you take feedback? how do you incorporate it?</summary>
+  
+  I believe feedback is a crucial part of the design process, and I approach it with an open mind and a focus on understanding the heart of what someone is saying. When I receive feedback, I actively listen to grasp not just the words but the underlying reasons and concerns. Even if I don’t initially agree with a suggestion, I explore how it might look incorporated because that process often sparks new ideas and brings the design together in unexpected ways.
+
+That said, I also balance collaboration with design principles. If feedback conflicts with brand guidelines or compromises accessibility for users, I’ll respectfully push back and explain why those aspects are important. My goal is to create designs that are both visually compelling and functionally sound, so I always aim to find a solution that honors the feedback while staying true to the project’s core objectives.
+</details>
+
+
+<details>
+<summary>what's your go-to snack while working on a design project</summary>
+  
+  When I’m deep in a design project, you’ll usually find me munching on pretzels or Goldfish crackers. And when the pressure’s on during major projects, I treat myself to a sour gummy worm or two. There’s something oddly satisfying about balancing stress with a little sweet-and-sour indulgence.  
+</details>
+
+
+<details>
+<summary>how do you prevent your work from becoming stale or one note?</summary>
+  
+  Keeping my work fresh comes down to play—both in and out of the studio. I have a variety of creative hobbies that help me stay inspired and open-minded. I write and illustrate picture books, mold clay, paint miniatures, and even enjoy watching others clean and upkeep vintage watches. There are also times when I’m studying what others are creating and socializing with them to feel inspired in the work of fellow creatives. Beyond that, I love getting outdoors, hiking, tending to my garden, reading a fantasy or science fiction novel, playing board games, and puzzles of all kinds from jigsaw, Puzzmo, or even escape-rooms.
+
+By keeping my interests wide and taking active breaks to dive into these activities, I give my mind and energy a chance to rest and recharge. This variety fuels my inspiration and motivation, ensuring that my design work stays dynamic and full of fresh ideas.
+</details>
+
+
+<details>
+<summary>what specific tools & programs do you use?</summary>
+  
+  For most of my projects, I rely on Adobe InDesign because it offers the flexibility I need, especially for variable data and interactive documents. My illustration background means I’m also proficient in Adobe Illustrator and Photoshop, which come in handy for creating custom graphics and refining visuals.
+
+Beyond the Adobe suite, I work with a variety of other tools depending on the project. For design collaboration and prototyping, I use Figma. For video editing, I turn to Adobe Premiere. To keep everything organized, I use Asana for project management and the Microsoft Word suite for documentation. Having a broad toolkit allows me to tackle any design challenge efficiently and creatively.
+
+These are just the most popular tools I use, I’m familiar with many others and pride myself on having the flexibility to meet any project’s needs from a tool perspective.
+</details>
+
+
+<details>
+<summary>how do you ensure your designs are accessible?</summary>
+  
+  Accessibility is a fundamental principle of my design work. I ensure my designs are inclusive and usable by everyone by following established accessibility guidelines, such as WCAG (Web Content Accessibility Guidelines) and ADA compliance, and by incorporating best practices throughout the design process.
+
+Additionally, I test my designs with real users, including those with disabilities, to gather feedback and identify areas for improvement. By integrating accessibility considerations from the outset and continuously refining my approach, I create designs that are not only visually compelling but also functional and inclusive for all users.
+</details>
+
+
+<details>
+<summary>what's your favorite color to work with, and why?</summary>
+  
+  I’m particularly drawn to jewel tones, rich reds, deep oranges, and lush jungle greens. These colors add depth and sophistication to designs, making them feel luxurious and vibrant. 
+
+However, my ultimate favorite is purple. It’s not a color I’m frequently asked to use, which makes it exciting to work with. Purple offers a unique balance of warmth and coolness, and its versatility allows it to convey everything from creativity to elegance, depending on the shade and context.
 </details>
