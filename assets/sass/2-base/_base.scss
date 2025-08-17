@@ -294,6 +294,7 @@ summary {
     font-family: 'Concourse Cap';
     border-bottom: 1px solid var(--border-color);
     transition: $global-transition;
+    display: inline-flex;
 
     &:hover {
       color: var(--link-color);
