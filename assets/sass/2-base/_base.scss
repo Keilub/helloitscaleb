@@ -290,15 +290,13 @@ ul {
   list-style: circle;
 }
 
+details {
+  padding: 10px;
+  background-color: #e4eaef;
+  border-radius: 5px;
+}
+
 summary {
     font-family: 'Concourse Cap';
-    border-bottom: 1px solid var(--border-color);
-    transition: $global-transition;
-    display: inline-flex;
-
-    &:hover {
-      color: var(--link-color);
-      border-color: var(--link-color-hover);
-  }
 }
   
