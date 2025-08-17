@@ -291,29 +291,36 @@ ul {
 }
 
 details {
-  padding: 10px;
-  background-color: #f6f6f6;
-  border-radius: 5px;
+
 }
 
-summary {
-  list-style: none;
-  font-family: 'Concourse Cap';
-  cursor: pointer;
-}
+details {
+    padding: 10px;
+    background-color: #f6f6f6;
+    border-radius: 5px;
+  summary {
+    list-style: none;
+    display: flex;
+    font-family: 'Concourse Cap';
+    cursor: pointer;
+    &::-webkit-details-marker {
+      display: none;
+    }
 
-summary::-webkit-details-marker {
-  display: none;              
+    &::before {
+      content: "▸";
+      flex-shrink: 0;
+      margin-right: 0.5em;
+      transition: transform 0.2s;
+    }
+  }
 
-summary::before {
-  content: "▸";
-  display: inline-block;
-  width: 1em;                 
-  margin-right: 0.25em;
-  transition: transform 0.2s;
-}
+  &[open] summary::before {
+    transform: rotate(90deg);
+  }
 
-details[open] summary::before {
-  transform: rotate(90deg);
+  > *:not(summary) {
+    padding-left: 1.5em;
+  }
 }
   
