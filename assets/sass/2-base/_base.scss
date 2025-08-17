@@ -294,12 +294,26 @@ details {
   padding: 10px;
   background-color: #f6f6f6;
   border-radius: 5px;
-  padding-left: 20px;
-  text-indent: -1.5em;
 }
 
 summary {
+  list-style: none;
   font-family: 'Concourse Cap';
   cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+  display: none;              
+
+summary::before {
+  content: "▸";
+  display: inline-block;
+  width: 1em;                 
+  margin-right: 0.25em;
+  transition: transform 0.2s;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
 }
   
