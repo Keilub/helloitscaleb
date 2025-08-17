@@ -297,7 +297,8 @@ details {
 }
 
 summary {
-    font-family: 'Concourse Cap';
-    padding: 10px;
+  font-family: 'Concourse Cap';
+  display: flex;
+  justify-content: space-between;
 }
   
