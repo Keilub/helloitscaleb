@@ -69,7 +69,10 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 ## Frequently Asked Questions
 
 <details>
-<summary><h5>what is your design process?</h5></summary>
+<summary>
+  
+  ##### what is your design process?
+</summary>
   
   I don’t follow a rigid, cookie-cutter process — instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
 <br>
