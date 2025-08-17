@@ -69,17 +69,22 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 ## Frequently Asked Questions
 
 <details>
-<summary>what is your design process?</summary>
-I don’t follow a rigid, cookie-cutter process — instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: Research, Exploration, and Iteration, with a little Play thrown in throughout for good measure.
-
+<summary><h5>what is your design process?</h5></summary>
+  
+  I don’t follow a rigid, cookie-cutter process — instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
+<br>
+  
 ##### phase one
-Research – Empathize and Define: I begin by aligning on the core message and auditing existing assets to identify strengths and pain points. I study competitors, consult stakeholders, and distill everything into a clear thesis that guides the project.
+Research: I begin by aligning on the core message and auditing existing assets to identify strengths and pain points. I study competitors, consult stakeholders, and distill everything into a clear thesis that guides the project.
+<br>
 
 ##### phase two 
-Exploration – Play and Push: With the strategy in place, I dive into creating wireframes or storyboards, defining visual styles, and developing reusable elements, all while keeping the core message front and center. I explore different tones and approaches to turn strategy into tangible, engaging visuals. 
+Exploration: With the strategy in place, I dive into creating wireframes or storyboards, defining visual styles, and developing reusable elements, all while keeping the core message front and center. I explore different tones and approaches to turn strategy into tangible, engaging visuals. 
+<br>
 
 ##### phase three
-Iteration – Test, Measure, and Refine: Iteration happens in two phases. First, I work collaboratively to take and test feedback and finalize the design and/or campaign. Then, if necessary, I follow up to dissect data and talk with users and consumers to inform any further iterations in follow-up designs or campaign pivots. This ensures that the final designs and campaigns are not only visually compelling but also practical and effective both at launch and over the course of the designs use.
+Iteration: Iteration happens in two phases. First, I work collaboratively to take and test feedback and finalize the design and/or campaign. Then, if necessary, I follow up to dissect data and talk with users and consumers to inform any further iterations in follow-up designs or campaign pivots. This ensures that the final designs and campaigns are not only visually compelling but also practical and effective both at launch and over the course of the designs use.
+<br>
 
 ##### honorable mention
 Play: Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (I love a good pothos) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.
