@@ -312,7 +312,11 @@ details {
   }
 
   &[open] summary::before {
-    transform: rotate(90deg);
+    content: "▾";
+  }
+  
+  > *:not(summary) {
+    padding-left: .5em;
   }
 }
   
