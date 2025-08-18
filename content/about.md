@@ -84,7 +84,7 @@ I intentionally keep my process open-minded and flexible to avoid unnecessary ch
 
 **Iteration:** Iteration happens in two phases. First, I work collaboratively to take and test feedback and finalize the design and/or campaign. Then, if necessary, I follow up to dissect data and talk with users and consumers to inform any further iterations in follow-up designs or campaign pivots. This ensures that the final designs and campaigns are not only visually compelling but also practical and effective both at launch and over the course of the designs use.
 
-**Play:** Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (I love a good pothos) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.
+**Play:** Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (My monstera, golden pothos and ivy are like family) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.
 </details>
 
 <br>
@@ -96,7 +96,7 @@ I intentionally keep my process open-minded and flexible to avoid unnecessary ch
 
 I carefully select typography, spacing, and color palettes that align with brand guidelines while supporting readability and visual appeal. When specific instructions are provided, I integrate them thoughtfully to meet project requirements without compromising usability or aesthetics. For interactive elements, I prioritize intuition and accessibility, ensuring seamless navigation.
 
-Throughout the process, I test different layouts and gather feedback to refine the design. The goal is to create a cohesive, functional, and visually compelling design that effectively communicates the intended message while adhering to brand standards and project specifications.
+Throughout the process, I test different layouts/variations and gather feedback to refine the design. The goal is to create a cohesive, functional, and visually compelling design that effectively communicates the intended message while adhering to brand standards and project specifications.
 </details>
 
 <br>
@@ -104,7 +104,7 @@ Throughout the process, I test different layouts and gather feedback to refine t
 <details>
 <summary>how do you take feedback? how do you incorporate it?</summary>
   
-  I believe feedback is a crucial part of the design process, and I approach it with an open mind and a focus on understanding the heart of what someone is saying. When I receive feedback, I actively listen to grasp not just the words but the underlying reasons and concerns. Even if I don’t initially agree with a suggestion, I explore how it might look incorporated because that process often sparks new ideas and brings the design together in unexpected ways.
+  I believe feedback is a crucial part of the design process, and I approach it with an open mind and a listening ear with a focus on understanding the heart of what someone is saying. When I receive feedback, I actively listen to grasp not just the words but the underlying reasons and concerns. Even if I don’t initially agree with a suggestion, I explore how it might look incorporated because that process often sparks new ideas and brings the design together in unexpected ways.
 
 That said, I also balance collaboration with design principles. If feedback conflicts with brand guidelines or compromises accessibility for users, I’ll respectfully push back and explain why those aspects are important. My goal is to create designs that are both visually compelling and functionally sound, so I always aim to find a solution that honors the feedback while staying true to the project’s core objectives.
 </details>
