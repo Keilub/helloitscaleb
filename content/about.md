@@ -180,3 +180,13 @@ If that answer is still too close to design, I’d probably be working with my h
 
 At the core, it’s about making a tangible, positive impact.
 </details>
+
+<br>
+
+<details>
+<summary>what's your opinion on AI?</summary>
+  
+  While I’ve read enough sci-fi to be cautious, I don’t see AI as an existential threat. It’s just another tool. The hype feels over the top, especially when AI work is built on the backs of real artists, from designers to illustrators to authors and all in-between. For me, skipping straight to a finished product with AI is boring and lazy. Design isn’t just about the result. It’s about the problem-solving, experimenting, and learning along the way to get to a result. If I hit a gap, I’d rather learn and build the skill than take the shortcut.
+
+That said, and even if I don’t use AI, AI does have its place. It’s great for handling repetitive tasks or sparking ideas you can build on. I see it as something that helps clear the busywork so creators can spend more time on the creative parts that matter. In the end, I think technology should support the creator, not replace them.
+</details>
