@@ -71,7 +71,7 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 <details>
 <summary>what is your design process?</summary>
   
-<p>I don’t follow a rigid, cookie-cutter process. Instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
+I don’t follow a rigid, cookie-cutter process. Instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
 <br>
   
 ##### phase one
@@ -87,7 +87,7 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 <br>
 
 ##### honorable mention
-**Play:** Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (I love a good pothos) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.</p>
+**Play:** Creativity thrives when you let loose, so I always make room for experimentation and wild ideas during any phase of the design process. I keep Legos and other fidget toys around my desk to let my mind wander and house plants (I love a good pothos) to tend to for a quick brain break. Stepping away to socialize is also key as you never know when sharing and playing with others will spark the next big idea and take your designs to the next level.
 </details>
 
 <br>
