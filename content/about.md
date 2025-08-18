@@ -62,9 +62,11 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 * Photography
 * Tradeshow Booth Design
 
----
+<br>
 
 [download a pdf version of my resume](/files/cAllen-Resume.pdf)
+
+---
 
 ## Frequently Asked Questions
 
