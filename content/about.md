@@ -134,7 +134,7 @@ By keeping my interests wide and taking active breaks to dive into these activit
   
   For most of my projects, I rely on Adobe InDesign because it offers the flexibility I need, especially for variable data and interactive documents. My illustration background means I’m also proficient in Adobe Illustrator and Photoshop, which come in handy for creating custom graphics and refining visuals.
 
-Beyond the Adobe suite, I work with a variety of other tools depending on the project. For design collaboration and prototyping, I use Figma. For video editing, I turn to Adobe Premiere. To keep everything organized, I use Asana for project management and the Microsoft Word, PowerPoint & Excel for documentation. Having a broad toolkit allows me to tackle any design challenge efficiently and creatively.
+Beyond the Adobe suite, I work with a variety of other tools depending on the project. For design collaboration and prototyping, I use Figma. For video editing, I turn to Adobe Premiere. To keep everything organized, I use Asana for project management and Microsoft Word, PowerPoint & Excel for documentation. Having a broad toolkit allows me to tackle any design challenge efficiently and creatively.
 
 These are just the most popular programs I use, I’m familiar with many others and pride myself on having the flexibility to meet any project’s needs from a tool perspective.
 
