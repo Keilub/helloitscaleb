@@ -160,3 +160,23 @@ Additionally, I test my designs with real users, including those with disabiliti
 
 However, my favorite is purple. It’s not a color I’m frequently asked to use, which makes it exciting to work with. Purple offers a unique balance of warmth and coolness, and its versatility allows it to convey everything from creativity to elegance, depending on the shade and context.
 </details>
+
+<br>
+
+<details>
+<summary>oddest inspiration source?</summary>
+  
+  The cemetery. It sounds odd, and a touch morbid, but during college a professor would take us to Lake View Cemetery each month. He argued that a cemetery is an ideal spot for an artist: the flowers, trees, and shrubs create rich landscape possibilities; the statues, headstones, and architectural details offer endless study of form; and the quiet, contemplative atmosphere sparks a unique emotional resonance. Even the headstones themselves hold stories of names, dates, poems, or brief tributes that spark curiosity about the lives once lived. These glimpses into the past inspire reflection and often fuel creative ideas in unexpected ways. Whether you’re spiritual or not, there’s something profoundly moving about being in that space.  
+</details>
+
+<br>
+
+<details>
+<summary>if not design, then what?</summary>
+  
+  If I weren’t designing, I’d likely be in another field where I could solve problems and serve others. I could see myself as an art therapist for children, using creativity to support emotional/mental well-being. 
+
+If that answer is still too close to design, I’d probably be working with my hands in a wood shop, crafting meaningful objects, or perhaps as a firefighter (this along with architect were the two jobs I most wanted to be when growing up), directly helping people in critical moments. Engineering is another path I’d consider, applying problem-solving skills to build and improve the world around us.
+
+At the core, it’s about making a tangible, positive impact.
+</details>
