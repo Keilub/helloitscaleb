@@ -90,7 +90,7 @@ I intentionally keep my process open-minded and flexible to avoid unnecessary ch
 <br>
 
 <details>
-<summary>how do you decide on the layout & elements of your designs?</summary>
+<summary>how do you make design decisions?</summary>
   
   Deciding on layout and elements begins with understanding the project’s goals, audience, and messaging. I establish a clear visual hierarchy that guides the user’s eye through the content logically and engagingly, starting with a solid grid structure for alignment and consistency. This foundation ensures balance and coherence across all design elements.
 
@@ -102,7 +102,7 @@ Throughout the process, I test different layouts/variations and gather feedback 
 <br>
 
 <details>
-<summary>how do you take feedback? how do you incorporate it?</summary>
+<summary>how do you take feedback?</summary>
   
   I believe feedback is a crucial part of the design process, and I approach it with an open mind and a listening ear with a focus on understanding the heart of what someone is saying. When I receive feedback, I actively listen to grasp not just the words but the underlying reasons and concerns. Even if I don’t initially agree with a suggestion, I explore how it might look incorporated because that process often sparks new ideas and brings the design together in unexpected ways.
 
@@ -112,7 +112,7 @@ That said, I also balance collaboration with design principles. If feedback conf
 <br>
 
 <details>
-<summary>what's your go-to snack while working on a design project</summary>
+<summary>what's your go-to design snack?</summary>
   
   When I’m deep in a design project, you’ll usually find me munching on pretzels or Goldfish crackers. And when the pressure’s on during major projects, I treat myself to a sour gummy worm or two. There’s something oddly satisfying about balancing stress with a little sweet-and-sour indulgence.  
 </details>
@@ -120,7 +120,7 @@ That said, I also balance collaboration with design principles. If feedback conf
 <br>
 
 <details>
-<summary>how do you prevent your work from becoming stale or one note?</summary>
+<summary>how do you keep your work fresh?</summary>
   
   Keeping my work fresh comes down to play, both in and out of the studio. I have a variety of creative hobbies that help me stay inspired and open-minded. I write and illustrate picture books, mold clay, paint miniatures, and even enjoy watching others clean and upkeep vintage watches. There are also times when I’m studying what others are creating and socializing with them to feel inspired in the work of fellow creatives. Beyond that, I love getting outdoors, hiking, tending to my garden, reading a fantasy or science fiction novel, playing board games, and puzzles of all kinds from jigsaw, Puzzmo, or even escape-rooms.
 
@@ -130,7 +130,7 @@ By keeping my interests wide and taking active breaks to dive into these activit
 <br>
 
 <details>
-<summary>what specific tools & programs do you use?</summary>
+<summary>what specific tools do you use?</summary>
   
   For most of my projects, I rely on Adobe InDesign because it offers the flexibility I need, especially for variable data and interactive documents. My illustration background means I’m also proficient in Adobe Illustrator and Photoshop, which come in handy for creating custom graphics and refining visuals.
 
@@ -154,7 +154,7 @@ Additionally, I test my designs with real users, including those with disabiliti
 <br>
 
 <details>
-<summary>what's your favorite color to work with, & why?</summary>
+<summary>what's your favorite color?</summary>
   
   I’m particularly drawn to jewel tones, rich reds, deep oranges, and lush jungle greens. These colors add depth and sophistication to designs, making them feel luxurious and vibrant. 
 
