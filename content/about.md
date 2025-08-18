@@ -74,6 +74,8 @@ As a designer with a diverse skill set, I utilize the magic of Adobe Creative Su
 <summary>what is your design process?</summary>
   
 I don’t follow a rigid, cookie-cutter process. Instead, I work from a set of foundational design principles that I check my work against at every stage. The road can meander, but the outcome must match the brief and serve the audience. My process revolves around three key phases: **Research, Exploration, and Iteration**, with a little **Play** thrown in throughout for good measure.
+
+I intentionally keep my process open-minded and flexible to avoid unnecessary checklists and ensure it adapts to any project scope. This way, I can focus on the most important aspects as they emerge, rather than adhering to a generic checklist that may not apply to every project.
   
 **Research:** I begin by aligning on the core message and auditing existing assets to identify strengths and pain points. I study competitors, consult stakeholders, and distill everything into a clear thesis that guides the project.
 <br>
@@ -120,7 +122,7 @@ That said, I also balance collaboration with design principles. If feedback conf
 <details>
 <summary>how do you prevent your work from becoming stale or one note?</summary>
   
-  Keeping my work fresh comes down to play—both in and out of the studio. I have a variety of creative hobbies that help me stay inspired and open-minded. I write and illustrate picture books, mold clay, paint miniatures, and even enjoy watching others clean and upkeep vintage watches. There are also times when I’m studying what others are creating and socializing with them to feel inspired in the work of fellow creatives. Beyond that, I love getting outdoors, hiking, tending to my garden, reading a fantasy or science fiction novel, playing board games, and puzzles of all kinds from jigsaw, Puzzmo, or even escape-rooms.
+  Keeping my work fresh comes down to play, both in and out of the studio. I have a variety of creative hobbies that help me stay inspired and open-minded. I write and illustrate picture books, mold clay, paint miniatures, and even enjoy watching others clean and upkeep vintage watches. There are also times when I’m studying what others are creating and socializing with them to feel inspired in the work of fellow creatives. Beyond that, I love getting outdoors, hiking, tending to my garden, reading a fantasy or science fiction novel, playing board games, and puzzles of all kinds from jigsaw, Puzzmo, or even escape-rooms.
 
 By keeping my interests wide and taking active breaks to dive into these activities, I give my mind and energy a chance to rest and recharge. This variety fuels my inspiration and motivation, ensuring that my design work stays dynamic and full of fresh ideas.
 </details>
@@ -134,7 +136,9 @@ By keeping my interests wide and taking active breaks to dive into these activit
 
 Beyond the Adobe suite, I work with a variety of other tools depending on the project. For design collaboration and prototyping, I use Figma. For video editing, I turn to Adobe Premiere. To keep everything organized, I use Asana for project management and the Microsoft Word suite for documentation. Having a broad toolkit allows me to tackle any design challenge efficiently and creatively.
 
-These are just the most popular tools I use, I’m familiar with many others and pride myself on having the flexibility to meet any project’s needs from a tool perspective.
+These are just the most popular programs I use, I’m familiar with many others and pride myself on having the flexibility to meet any project’s needs from a tool perspective.
+
+My go to tools are, Musgrave News 600, Blackwings, Pentel P205, Pilot G2, and MUJI Gel to name a few. 
 </details>
 
 <br>
@@ -150,9 +154,9 @@ Additionally, I test my designs with real users, including those with disabiliti
 <br>
 
 <details>
-<summary>what's your favorite color to work with, and why?</summary>
+<summary>what's your favorite color to work with, & why?</summary>
   
   I’m particularly drawn to jewel tones, rich reds, deep oranges, and lush jungle greens. These colors add depth and sophistication to designs, making them feel luxurious and vibrant. 
 
-However, my ultimate favorite is purple. It’s not a color I’m frequently asked to use, which makes it exciting to work with. Purple offers a unique balance of warmth and coolness, and its versatility allows it to convey everything from creativity to elegance, depending on the shade and context.
+However, my favorite is purple. It’s not a color I’m frequently asked to use, which makes it exciting to work with. Purple offers a unique balance of warmth and coolness, and its versatility allows it to convey everything from creativity to elegance, depending on the shade and context.
 </details>
