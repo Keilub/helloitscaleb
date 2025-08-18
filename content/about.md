@@ -144,7 +144,7 @@ My go to tools are, Musgrave News 600, Blackwings, Pentel P205, Pilot G2, and MU
 <br>
 
 <details>
-<summary>how do you ensure your designs are accessible?</summary>
+<summary>how do you design for accessibility?</summary>
   
   Accessibility is a fundamental principle of my design work. I ensure my designs are inclusive and usable by everyone by following established accessibility guidelines, such as WCAG (Web Content Accessibility Guidelines) and ADA compliance, and by incorporating best practices throughout the design process.
 
